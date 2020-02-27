@@ -1,0 +1,23 @@
+-------------- Script info --------------
+Script name: scrawl_ratemyprofessors.py
+Start time: 11/25/2019 17:14:51
+
+-------------- Output --------------
+11/25/2019 17:14:51  [LOG]  :   Total task count: 2957
+11/25/2019 17:14:51  [LOG]  :   Total thread count: 1
+11/25/2019 17:14:51  [LOG]  :   Starting thread: 0
+11/25/2019 17:14:52  [LOG]  :   Assigned task from: 0 to thread: 0. Assigned task number: 5
+11/25/2019 17:14:52  [LOG]  :   Thread: 0. Aaron Abma
+11/25/2019 17:14:55  [LOG]  :   Thread: 0. No link for professor: Aaron Abma
+11/25/2019 17:14:55  [LOG]  :   Thread: 0. Aaron Barchowsky 
+11/25/2019 17:14:57  [LOG]  :   Thread: 0. No link for professor: Aaron Barchowsky 
+11/25/2019 17:14:57  [LOG]  :   Thread: 0. Aaron Batista 
+11/25/2019 17:15:00  [LOG]  :   Thread: 0. No link for professor: Aaron Batista 
+11/25/2019 17:15:00  [LOG]  :   Thread: 0. Aaron Bell 
+11/25/2019 17:15:03  [LOG]  :   Thread: 0. Professor: Aaron Bell already exsits. Updating...
+11/25/2019 17:15:03  [LOG]  :   Thread: 0. Aaron Bernstine
+11/25/2019 17:15:10  [LOG]  :   Assigned task from: 5 to thread: 0. Assigned task number: 5
+11/25/2019 17:15:10  [LOG]  :   Thread: 0. Aaron Brooks
+11/25/2019 17:15:17  [LOG]  :   Thread: 0. Aaron Henderson
+11/25/2019 17:15:24  [LOG]  :   Thread: 0. Aaron Johnson
+11/25/2019 17:15:28  [LOG]  :   Thread: 0. Aaron Mann

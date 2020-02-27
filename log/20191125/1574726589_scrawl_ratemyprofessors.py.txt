@@ -1,0 +1,44 @@
+-------------- Script info --------------
+Script name: scrawl_ratemyprofessors.py
+Start time: 11/25/2019 19:03:09
+
+-------------- Output --------------
+11/25/2019 19:03:09  [LOG]  :   Total task count: 2959
+11/25/2019 19:03:09  [LOG]  :   Total thread count: 1
+11/25/2019 19:03:09  [LOG]  :   Starting thread: 0
+11/25/2019 19:03:09  [LOG]  :   Assigned task from: 0 to thread: 0. Assigned task number: 5
+11/25/2019 19:03:09  [LOG]  :   Thread: 0. Aaron Abma
+11/25/2019 19:03:30  [LOG]  :   Thread: 0. No link for professor: Aaron Abma
+11/25/2019 19:03:30  [LOG]  :   Thread: 0. Aaron Barchowsky
+11/25/2019 19:03:48  [LOG]  :   Thread: 0. No link for professor: Aaron Barchowsky
+11/25/2019 19:03:48  [LOG]  :   Thread: 0. Aaron Batista
+11/25/2019 19:03:57  [LOG]  :   Thread: 0. No link for professor: Aaron Batista
+11/25/2019 19:03:57  [LOG]  :   Thread: 0. Aaron Bell
+11/25/2019 19:03:59  [LOG]  :   Thread: 0. Aaron Bernstine
+11/25/2019 19:04:06  [LOG]  :   Assigned task from: 5 to thread: 0. Assigned task number: 5
+11/25/2019 19:04:06  [LOG]  :   Thread: 0. Aaron Brooks
+11/25/2019 19:04:12  [LOG]  :   Thread: 0. Aaron Henderson
+11/25/2019 19:04:19  [LOG]  :   Thread: 0. Aaron Johnson
+11/25/2019 19:04:22  [LOG]  :   Thread: 0. Aaron Mann
+11/25/2019 19:04:28  [LOG]  :   Thread: 0. Aaron Ostrowski
+11/25/2019 19:04:30  [LOG]  :   Thread: 0. No link for professor: Aaron Ostrowski
+11/25/2019 19:04:30  [LOG]  :   Assigned task from: 10 to thread: 0. Assigned task number: 5
+11/25/2019 19:04:30  [LOG]  :   Thread: 0. Aaron Pifer
+11/25/2019 19:04:33  [LOG]  :   Thread: 0. No link for professor: Aaron Pifer
+11/25/2019 19:04:33  [LOG]  :   Thread: 0. Aarti Batra
+11/25/2019 19:04:35  [LOG]  :   Thread: 0. No link for professor: Aarti Batra
+11/25/2019 19:04:35  [LOG]  :   Thread: 0. Abagael West
+11/25/2019 19:04:42  [LOG]  :   Thread: 0. Abby Kincaid
+11/25/2019 19:04:44  [LOG]  :   Thread: 0. Abdesalam Soudi
+11/25/2019 19:04:50  [LOG]  :   Assigned task from: 15 to thread: 0. Assigned task number: 5
+11/25/2019 19:04:50  [LOG]  :   Thread: 0. Abdus Wahed
+11/25/2019 19:04:52  [LOG]  :   Thread: 0. No link for professor: Abdus Wahed
+11/25/2019 19:04:52  [LOG]  :   Thread: 0. Abigail Miller
+11/25/2019 19:04:55  [LOG]  :   Thread: 0. Abigail Salisbury
+11/25/2019 19:04:57  [LOG]  :   Thread: 0. Abimbola Fapohunda
+11/25/2019 19:04:59  [LOG]  :   Thread: 0. No link for professor: Abimbola Fapohunda
+11/25/2019 19:04:59  [LOG]  :   Thread: 0. Ada Youk
+11/25/2019 19:05:02  [LOG]  :   Thread: 0. No link for professor: Ada Youk
+11/25/2019 19:05:02  [LOG]  :   Assigned task from: 20 to thread: 0. Assigned task number: 5
+11/25/2019 19:05:02  [LOG]  :   Thread: 0. Adam Balawejder
+11/25/2019 19:05:10  [LOG]  :   Thread: 0. Adam Brown

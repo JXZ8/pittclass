@@ -1,0 +1,16 @@
+-------------- Script info --------------
+Script name: scrawl_ratemyprofessors.py
+Start time: 11/25/2019 10:46:04
+
+-------------- Output --------------
+11/25/2019 10:46:04  [LOG]  :   Total task count: 0
+11/25/2019 10:46:04  [LOG]  :   Total thread count: 8
+11/25/2019 10:46:04  [LOG]  :   Starting thread: 0
+11/25/2019 10:46:04  [LOG]  :   All mission completed!
+11/25/2019 10:46:04  [LOG]  :   Starting thread: 1
+11/25/2019 10:46:04  [LOG]  :   Starting thread: 2
+11/25/2019 10:46:04  [LOG]  :   Starting thread: 3
+11/25/2019 10:46:04  [LOG]  :   Starting thread: 4
+11/25/2019 10:46:04  [LOG]  :   Starting thread: 5
+11/25/2019 10:46:04  [LOG]  :   Starting thread: 6
+11/25/2019 10:46:04  [LOG]  :   Starting thread: 7

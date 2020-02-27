@@ -1,0 +1,36 @@
+-------------- Script info --------------
+Script name: insert_class.py
+Start time: 11/25/2019 18:20:37
+
+-------------- Output --------------
+11/25/2019 18:20:37  [LOG]  :   Total task count: 1
+11/25/2019 18:20:37  [LOG]  :   Total thread count: 8
+11/25/2019 18:20:37  [LOG]  :   Starting thread: 0
+11/25/2019 18:20:37  [LOG]  :   Starting thread: 1
+11/25/2019 18:20:37  [LOG]  :   Starting thread: 2
+11/25/2019 18:20:37  [LOG]  :   Starting thread: 3
+11/25/2019 18:20:37  [LOG]  :   Starting thread: 4
+11/25/2019 18:20:37  [LOG]  :   Starting thread: 5
+11/25/2019 18:20:37  [LOG]  :   Starting thread: 6
+11/25/2019 18:20:37  [LOG]  :   Starting thread: 7
+11/25/2019 18:20:37  [LOG]  :   Assigned task from: 0 to thread: 1. Assigned task number: 1
+11/25/2019 18:20:37  [LOG]  :   Start crawling subject: PHYS
+11/25/2019 18:20:37  [LOG]  :   All mission completed!
+11/25/2019 18:20:41  [LOG]  :   Thread: 1. PHYS:PHYS 0087 - PHYSICS AND SOCIETY 1160-LEC Acad Term
+11/25/2019 18:20:41  [LOG]  :   Thread: 1. PHYS:PHYS 0091 - CONCEPTUAL PHYSICS 1020-LEC Acad Term
+11/25/2019 18:20:41  [LOG]  :   Thread: 1. PHYS:PHYS 0091 - CONCEPTUAL PHYSICS 1025-REC Acad Term
+11/25/2019 18:20:41  [LOG]  :   Thread: 1. PHYS:PHYS 0091 - CONCEPTUAL PHYSICS 1030-REC Acad Term
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1010-LEC Acad Term
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1011-REC Acad Term
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1015-REC Acad Term
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1017-REC Acad Term
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1020-REC Acad Term
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1025-REC Acad Term
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1030-REC Acad Term
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1035-REC Acad Term
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1200-LEC FT Sess
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1201-REC FT Sess
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1220-REC FT Sess
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1230-REC FT Sess
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1240-REC FT Sess
+11/25/2019 18:20:49  [LOG]  :   Thread: 1. PHYS:PHYS 0110 - INTRODUCTION TO PHYSICS 1 1250-REC FT Sess

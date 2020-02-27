@@ -1,0 +1,79 @@
+-------------- Script info --------------
+Script name: scrawl_nation.py
+Start time: 11/23/2019 21:41:35
+
+-------------- Output --------------
+11/23/2019 21:41:35  [LOG]  :   The total task count is 5692
+11/23/2019 21:41:35  [LOG]  :   Total thread count: 3
+11/23/2019 21:41:35  [LOG]  :   Starting thread: 0
+11/23/2019 21:41:35  [LOG]  :   Starting thread: 1
+11/23/2019 21:41:35  [LOG]  :   Starting thread: 2
+11/23/2019 21:41:39  [LOG]  :   Assigned task from: 0 to thread. Assigned task number: 10
+11/23/2019 21:41:39  [LOG]  :   Aaron Abma: 
+11/23/2019 21:41:39  [LOG]  :   Last name for name: Aaron Abma already exists. Skipping this...
+11/23/2019 21:41:39  [LOG]  :   Aaron Barchowsky: 
+11/23/2019 21:41:39  [LOG]  :   Last name for name: Aaron Barchowsky already exists. Skipping this...
+11/23/2019 21:41:39  [LOG]  :   Aaron Batista: 
+11/23/2019 21:41:39  [LOG]  :   Last name for name: Aaron Batista already exists. Skipping this...
+11/23/2019 21:41:39  [LOG]  :   Aaron Batista: 
+11/23/2019 21:41:39  [LOG]  :   Last name for name: Aaron Batista already exists. Skipping this...
+11/23/2019 21:41:39  [LOG]  :   Aaron Bell: 
+11/23/2019 21:41:39  [LOG]  :   Last name for name: Aaron Bell already exists. Skipping this...
+11/23/2019 21:41:39  [LOG]  :   Aaron Bernstine: 
+11/23/2019 21:41:39  [LOG]  :   Last name for name: Aaron Bernstine already exists. Skipping this...
+11/23/2019 21:41:39  [LOG]  :   Aaron Brooks: 
+11/23/2019 21:41:44  [LOG]  :   Assigned task from: 10 to thread. Assigned task number: 10
+11/23/2019 21:41:44  [LOG]  :   Aaron Ostrowski: 
+11/23/2019 21:41:44  [LOG]  :   Last name for name: Aaron Ostrowski already exists. Skipping this...
+11/23/2019 21:41:44  [LOG]  :   Aaron Pifer: 
+11/23/2019 21:41:44  [LOG]  :   Last name for name: Aaron Pifer already exists. Skipping this...
+11/23/2019 21:41:44  [LOG]  :   Aarti Batra: 
+11/23/2019 21:41:44  [LOG]  :   Last name for name: Aarti Batra already exists. Skipping this...
+11/23/2019 21:41:44  [LOG]  :   Aarti Batra: 
+11/23/2019 21:41:44  [LOG]  :   Last name for name: Aarti Batra already exists. Skipping this...
+11/23/2019 21:41:44  [LOG]  :   Assigned task from: 20 to thread. Assigned task number: 10
+11/23/2019 21:41:44  [LOG]  :   Abagael West: 
+11/23/2019 21:41:44  [LOG]  :   Abimbola Fapohunda: 
+11/23/2019 21:41:44  [LOG]  :   Last name for name: Abagael West already exists. Skipping this...
+11/23/2019 21:41:44  [LOG]  :   Last name for name: Abimbola Fapohunda already exists. Skipping this...
+11/23/2019 21:41:44  [LOG]  :   Abby Kincaid: 
+11/23/2019 21:41:44  [LOG]  :   Ada Youk: 
+11/23/2019 21:41:44  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:41:44  [LOG]  :   Last name for name: Ada Youk already exists. Skipping this...
+11/23/2019 21:41:44  [LOG]  :   Ada Youk: 
+11/23/2019 21:41:44  [LOG]  :   Last name for name: Ada Youk already exists. Skipping this...
+11/23/2019 21:41:44  [LOG]  :   Adam Balawejder: 
+11/23/2019 21:41:44  [LOG]  :   Last name for name: Adam Balawejder already exists. Skipping this...
+11/23/2019 21:41:44  [LOG]  :   Adam Brown: 
+11/23/2019 21:41:44  [LOG]  :   United States
+11/23/2019 21:41:44  [LOG]  :   Aaron Henderson: 
+11/23/2019 21:41:45  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:41:49  [LOG]  :   United States
+11/23/2019 21:41:49  [LOG]  :   Aaron Johnson: 
+11/23/2019 21:41:50  [LOG]  :   United States
+11/23/2019 21:41:50  [LOG]  :   Adam Hart: 
+11/23/2019 21:41:50  [LOG]  :   United States
+11/23/2019 21:41:50  [LOG]  :   Abdesalam Soudi: 
+11/23/2019 21:41:53  [LOG]  :   United States
+11/23/2019 21:41:53  [LOG]  :   Aaron Mann: 
+11/23/2019 21:41:53  [LOG]  :   Egypt
+11/23/2019 21:41:53  [LOG]  :   Abdus Wahed: 
+11/23/2019 21:41:54  [LOG]  :   United States
+11/23/2019 21:41:54  [LOG]  :   Adam Lee: 
+11/23/2019 21:41:56  [LOG]  :   United States
+11/23/2019 21:41:56  [LOG]  :   Assigned task from: 30 to thread. Assigned task number: 10
+11/23/2019 21:41:56  [LOG]  :   Adam Shear: 
+11/23/2019 21:41:57  [LOG]  :   Bangladesh
+11/23/2019 21:41:57  [LOG]  :   Abigail Miller: 
+11/23/2019 21:42:00  [LOG]  :   United States
+11/23/2019 21:42:00  [LOG]  :   Adam Lee: 
+11/23/2019 21:42:00  [LOG]  :   Last name for name: Adam Lee already exists. Skipping this...
+11/23/2019 21:42:00  [LOG]  :   Adam Leibovich: 
+11/23/2019 21:42:00  [LOG]  :   United States
+11/23/2019 21:42:00  [LOG]  :   Adam Walkowiak: 
+11/23/2019 21:42:02  [LOG]  :   United States
+11/23/2019 21:42:02  [LOG]  :   Abigail Salisbury: 
+11/23/2019 21:42:03  [LOG]  :   Poland
+11/23/2019 21:42:03  [LOG]  :   Addison Eldin: 
+11/23/2019 21:42:05  [LOG]  :   Argentina
+11/23/2019 21:42:05  [LOG]  :   Adam Lowenstein: 

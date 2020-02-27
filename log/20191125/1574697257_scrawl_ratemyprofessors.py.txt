@@ -1,0 +1,13 @@
+-------------- Script info --------------
+Script name: scrawl_ratemyprofessors.py
+Start time: 11/25/2019 10:54:17
+
+-------------- Output --------------
+11/25/2019 10:54:17  [LOG]  :   Total task count: 2957
+11/25/2019 10:54:17  [LOG]  :   Total thread count: 1
+11/25/2019 10:54:17  [LOG]  :   Starting thread: 0
+11/25/2019 10:54:17  [LOG]  :   Assigned task from: 0 to thread: 0. Assigned task number: 5
+11/25/2019 10:54:17  [LOG]  :   Thread: 0. Aaron Abma
+11/25/2019 10:54:24  [ERROR]  :   Insert into data base error at Database.insert(). Error Info: InternalError(1054, "Unknown column 'nation' in 'field list'")
+11/25/2019 10:54:24  [ERROR]  :   Error sql statement: INSERT INTO instructor_info(add_time,nation,instructor_link,rmp_difficulty,rmp_rating,rmp_link,department,instructor_id,id) VALUES('1574697264.8961952','','','','','','','88e31259-0ed3-11ea-af88-a4c3f078df38','da88b79e-0f9b-11ea-8f58-a4c3f078df38')
+11/25/2019 10:54:24  [LOG]  :   Thread: 0. Aaron Barchowsky 

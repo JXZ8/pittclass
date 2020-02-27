@@ -1,0 +1,50 @@
+-------------- Script info --------------
+Script name: scrawl_ratemyprofessors.py
+Start time: 11/25/2019 17:13:40
+
+-------------- Output --------------
+11/25/2019 17:13:40  [LOG]  :   Total task count: 2957
+11/25/2019 17:13:40  [LOG]  :   Total thread count: 8
+11/25/2019 17:13:40  [LOG]  :   Starting thread: 0
+11/25/2019 17:13:40  [LOG]  :   Starting thread: 1
+11/25/2019 17:13:40  [LOG]  :   Starting thread: 2
+11/25/2019 17:13:40  [LOG]  :   Starting thread: 3
+11/25/2019 17:13:40  [LOG]  :   Starting thread: 4
+11/25/2019 17:13:40  [LOG]  :   Starting thread: 5
+11/25/2019 17:13:40  [LOG]  :   Starting thread: 6
+11/25/2019 17:13:40  [LOG]  :   Starting thread: 7
+11/25/2019 17:13:41  [LOG]  :   Assigned task from: 0 to thread: 0. Assigned task number: 5
+11/25/2019 17:13:41  [LOG]  :   Thread: 0. Aaron Abma
+11/25/2019 17:13:41  [LOG]  :   Assigned task from: 5 to thread: 6. Assigned task number: 5
+11/25/2019 17:13:41  [LOG]  :   Thread: 6. Aaron Brooks
+11/25/2019 17:13:41  [LOG]  :   Assigned task from: 10 to thread: 4. Assigned task number: 5
+11/25/2019 17:13:41  [LOG]  :   Thread: 4. Aaron Pifer 
+11/25/2019 17:13:41  [LOG]  :   Assigned task from: 15 to thread: 7. Assigned task number: 5
+11/25/2019 17:13:41  [LOG]  :   Assigned task from: 20 to thread: 3. Assigned task number: 5
+11/25/2019 17:13:41  [LOG]  :   Thread: 7. Abdus Wahed
+11/25/2019 17:13:41  [LOG]  :   Thread: 3. Adam Balawejder
+11/25/2019 17:13:41  [LOG]  :   Assigned task from: 25 to thread: 2. Assigned task number: 5
+11/25/2019 17:13:41  [LOG]  :   Thread: 2. Adam Lowenstein
+11/25/2019 17:13:41  [LOG]  :   Assigned task from: 30 to thread: 1. Assigned task number: 5
+11/25/2019 17:13:41  [LOG]  :   Assigned task from: 35 to thread: 5. Assigned task number: 5
+11/25/2019 17:13:41  [LOG]  :   Thread: 1. Adriana Helbig
+11/25/2019 17:13:41  [LOG]  :   Thread: 5. Ahmed Elshahat
+11/25/2019 17:13:44  [LOG]  :   Thread: 5. No link for professor: Ahmed Elshahat
+11/25/2019 17:13:44  [LOG]  :   Thread: 5. Aidan Beatty
+11/25/2019 17:13:44  [LOG]  :   Thread: 0. No link for professor: Aaron Abma
+11/25/2019 17:13:44  [LOG]  :   Thread: 7. No link for professor: Abdus Wahed
+11/25/2019 17:13:44  [LOG]  :   Thread: 0. Aaron Barchowsky 
+11/25/2019 17:13:44  [LOG]  :   Thread: 7. Abigail Miller 
+11/25/2019 17:13:46  [LOG]  :   Thread: 4. No link for professor: Aaron Pifer 
+11/25/2019 17:13:46  [LOG]  :   Thread: 4. Aarti Batra
+11/25/2019 17:13:46  [LOG]  :   Thread: 5. Professor: Aidan Beattyalready exsits. Updating...
+11/25/2019 17:13:47  [LOG]  :   Thread: 0. No link for professor: Aaron Barchowsky 
+11/25/2019 17:13:47  [LOG]  :   Thread: 7. Abigail Salisbury
+11/25/2019 17:13:47  [LOG]  :   Thread: 0. Aaron Batista 
+11/25/2019 17:13:48  [LOG]  :   Thread: 4. No link for professor: Aarti Batra
+11/25/2019 17:13:48  [LOG]  :   Thread: 4. Abagael West
+11/25/2019 17:13:49  [LOG]  :   Thread: 7. Abimbola Fapohunda
+11/25/2019 17:13:49  [LOG]  :   Thread: 0. No link for professor: Aaron Batista 
+11/25/2019 17:13:49  [LOG]  :   Thread: 0. Aaron Bell 
+11/25/2019 17:13:51  [LOG]  :   Thread: 7. No link for professor: Abimbola Fapohunda
+11/25/2019 17:13:51  [LOG]  :   Thread: 7. Ada Youk

@@ -1,0 +1,700 @@
+-------------- Script info --------------
+Script name: scrawl_nation.py
+Start time: 11/23/2019 21:51:07
+
+-------------- Output --------------
+11/23/2019 21:51:07  [LOG]  :   The total task count is 5692
+11/23/2019 21:51:07  [LOG]  :   Total thread count: 8
+11/23/2019 21:51:07  [LOG]  :   Starting thread: 0
+11/23/2019 21:51:07  [LOG]  :   Starting thread: 1
+11/23/2019 21:51:07  [LOG]  :   Starting thread: 2
+11/23/2019 21:51:07  [LOG]  :   Starting thread: 3
+11/23/2019 21:51:07  [LOG]  :   Starting thread: 4
+11/23/2019 21:51:07  [LOG]  :   Starting thread: 5
+11/23/2019 21:51:07  [LOG]  :   Starting thread: 6
+11/23/2019 21:51:07  [LOG]  :   Starting thread: 7
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 0 to thread. Assigned task number: 10
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 10 to thread. Assigned task number: 10
+11/23/2019 21:51:08  [LOG]  :   Aaron Abma: 
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 20 to thread. Assigned task number: 10
+11/23/2019 21:51:08  [LOG]  :   Aaron Ostrowski: 
+11/23/2019 21:51:08  [LOG]  :   Last name for name: Aaron Abma already exists. Skipping this...
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 30 to thread. Assigned task number: 10
+11/23/2019 21:51:08  [LOG]  :   Abimbola Fapohunda: 
+11/23/2019 21:51:08  [LOG]  :   Aaron Barchowsky: 
+11/23/2019 21:51:08  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 40 to thread. Assigned task number: 10
+11/23/2019 21:51:08  [LOG]  :   Adam Shear: 
+11/23/2019 21:51:08  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:08  [LOG]  :   Last name for name: Aaron Barchowsky already exists. Skipping this...
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 50 to thread. Assigned task number: 10
+11/23/2019 21:51:08  [LOG]  :   Aaron Batista: 
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 60 to thread. Assigned task number: 10
+11/23/2019 21:51:08  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 70 to thread. Assigned task number: 10
+11/23/2019 21:51:08  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 80 to thread. Assigned task number: 10
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 90 to thread. Assigned task number: 10
+11/23/2019 21:51:08  [LOG]  :   Assigned task from: 100 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 110 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 120 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 130 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 140 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 150 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 160 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 170 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:09  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 180 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 190 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 200 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 210 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 220 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 230 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 240 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 250 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 260 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 270 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 280 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 290 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 300 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 310 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:09  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:09  [LOG]  :   Assigned task from: 320 to thread. Assigned task number: 10
+11/23/2019 21:51:09  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 330 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 340 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 350 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 360 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 370 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 380 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 390 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 400 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 410 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 420 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 430 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 440 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 450 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 460 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:10  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 470 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 480 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 490 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 500 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 510 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 520 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 530 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 540 to thread. Assigned task number: 10
+11/23/2019 21:51:10  [LOG]  :   Assigned task from: 550 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 560 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 570 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:11  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 580 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 590 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 600 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 610 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 620 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 630 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 640 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 650 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 660 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 670 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 680 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 690 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 700 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:11  [LOG]  :   Assigned task from: 710 to thread. Assigned task number: 10
+11/23/2019 21:51:11  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:12  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 720 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 730 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 740 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 750 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 760 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 770 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 780 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 790 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 800 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 810 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 820 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 830 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 840 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 850 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 860 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 870 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 880 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 890 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 900 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 910 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 920 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 930 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 940 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 950 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 960 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 970 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 980 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 990 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1000 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1010 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1020 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1030 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1040 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1050 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1060 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1070 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1080 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1090 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1100 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1110 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1120 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1130 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1140 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1150 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1160 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1170 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1180 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1190 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1200 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1210 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1220 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1230 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1240 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1250 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1260 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1270 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1280 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1290 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1300 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1310 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1320 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1330 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1340 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1350 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1360 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1370 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1380 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1390 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1400 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1410 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1420 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1430 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1440 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1450 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1460 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1470 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1480 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1490 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1500 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1510 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1520 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1530 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1540 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1550 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1560 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1570 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1580 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1590 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1600 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1610 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1620 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1630 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1640 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1650 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1660 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1670 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1680 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1690 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1700 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1710 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1720 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1730 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1740 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1750 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1760 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1770 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1780 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1790 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1800 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1810 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1820 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1830 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1840 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1850 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1860 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1870 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1880 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1890 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1900 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1910 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1920 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1930 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1940 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1950 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1960 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1970 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1980 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 1990 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2000 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2010 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2020 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2030 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2040 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2050 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2060 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2070 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2080 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2090 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2100 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2110 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2120 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2130 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2140 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2150 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2160 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2170 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2180 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2190 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2200 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2210 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2220 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2230 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2240 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2250 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2260 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2270 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2280 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2290 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2300 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2310 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2320 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2330 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2340 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2350 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2360 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2370 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2380 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2390 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2400 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2410 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2420 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2430 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2440 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2450 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2460 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2470 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2480 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2490 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2500 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2510 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2520 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2530 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2540 to thread. Assigned task number: 10
+11/23/2019 21:51:12  [LOG]  :   Assigned task from: 2550 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2560 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2570 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2580 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2590 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2600 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2610 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2620 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2630 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2640 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2650 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2660 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2670 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2680 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2690 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2700 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2710 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2720 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2730 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2740 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2750 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2760 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2770 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2780 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2790 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2800 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2810 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2820 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2830 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2840 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2850 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2860 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2870 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2880 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2890 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2900 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2910 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2920 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2930 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2940 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2950 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2960 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2970 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2980 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 2990 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3000 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3010 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3020 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3030 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3040 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3050 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3060 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3070 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3080 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3090 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3100 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3110 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3120 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3130 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3140 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3150 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3160 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3170 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3180 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3190 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3200 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3210 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3220 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3230 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3240 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3250 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3260 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3270 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3280 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3290 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3300 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3310 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3320 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3330 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3340 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3350 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3360 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3370 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3380 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3390 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3400 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3410 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3420 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3430 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3440 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3450 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3460 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3470 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3480 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3490 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3500 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3510 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3520 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3530 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3540 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3550 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3560 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3570 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3580 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3590 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3600 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3610 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3620 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3630 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3640 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3650 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3660 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3670 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3680 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3690 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3700 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3710 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3720 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3730 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3740 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3750 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3760 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3770 to thread. Assigned task number: 10
+11/23/2019 21:51:13  [LOG]  :   Assigned task from: 3780 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3790 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3800 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3810 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3820 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3830 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3840 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3850 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3860 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3870 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3880 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3890 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3900 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3910 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3920 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3930 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3940 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3950 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3960 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3970 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3980 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 3990 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4000 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4010 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4020 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4030 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4040 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4050 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4060 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4070 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4080 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4090 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4100 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4110 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4120 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4130 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4140 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4150 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4160 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4170 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4180 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4190 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4200 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4210 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4220 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4230 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4240 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4250 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4260 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4270 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4280 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4290 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4300 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4310 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4320 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4330 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4340 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4350 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4360 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4370 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4380 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4390 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4400 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4410 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4420 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4430 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4440 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4450 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4460 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4470 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4480 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4490 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4500 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4510 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4520 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4530 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4540 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4550 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4560 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4570 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4580 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4590 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4600 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4610 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4620 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4630 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4640 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4650 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4660 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4670 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4680 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4690 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4700 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4710 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4720 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4730 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4740 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4750 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4760 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4770 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4780 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4790 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4800 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4810 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4820 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4830 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4840 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4850 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4860 to thread. Assigned task number: 10
+11/23/2019 21:51:14  [LOG]  :   Assigned task from: 4870 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4880 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4890 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4900 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4910 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4920 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4930 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4940 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4950 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4960 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4970 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4980 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 4990 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5000 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5010 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5020 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5030 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5040 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5050 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5060 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5070 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5080 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5090 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5100 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5110 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5120 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5130 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5140 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5150 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5160 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5170 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5180 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5190 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5200 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5210 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5220 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5230 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5240 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5250 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5260 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5270 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5280 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5290 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5300 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5310 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5320 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5330 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5340 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5350 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5360 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5370 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5380 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5390 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5400 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5410 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5420 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5430 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5440 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5450 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5460 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5470 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5480 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5490 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5500 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5510 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5520 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5530 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5540 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5550 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5560 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5570 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5580 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5590 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5600 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5610 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5620 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5630 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5640 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5650 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5660 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5670 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5680 to thread. Assigned task number: 10
+11/23/2019 21:51:15  [LOG]  :   Assigned task from: 5690 to thread. Assigned task number: 2
+11/23/2019 21:51:15  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:15  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:16  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:16  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:16  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:16  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:16  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:16  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:17  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:17  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:17  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:17  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:17  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:17  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:17  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:17  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:18  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:18  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:18  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:18  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:18  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:18  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:18  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:19  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:19  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:19  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:19  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:19  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:19  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:19  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:19  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:20  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:20  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:20  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:20  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:20  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:20  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:20  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:21  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:21  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:21  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:21  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:21  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:21  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:21  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:21  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:22  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:22  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:22  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:22  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:22  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:22  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:23  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:23  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:51:23  [WARNING]  :   Connection timeout. Changing ip...

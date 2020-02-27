@@ -1,0 +1,24 @@
+-------------- Script info --------------
+Script name: insert_instructor.py
+Start time: 11/24/2019 10:49:06
+
+-------------- Output --------------
+11/24/2019 10:49:06  [LOG]  :   Total task count: 215
+11/24/2019 10:49:06  [LOG]  :   Total thread count: 8
+11/24/2019 10:49:06  [LOG]  :   Starting thread: 0
+11/24/2019 10:49:06  [LOG]  :   Starting thread: 1
+11/24/2019 10:49:06  [LOG]  :   Starting thread: 2
+11/24/2019 10:49:07  [LOG]  :   Starting thread: 3
+11/24/2019 10:49:07  [LOG]  :   Assigned task from: 0 to thread: 1. Assigned task number: 5
+11/24/2019 10:49:07  [LOG]  :   Starting thread: 4
+11/24/2019 10:49:07  [LOG]  :   Assigned task from: 5 to thread: 2. Assigned task number: 5
+11/24/2019 10:49:07  [LOG]  :   Start new subject: ADMJ
+11/24/2019 10:49:07  [LOG]  :   Starting thread: 5
+11/24/2019 10:49:07  [LOG]  :   Start new subject: ARABIC
+11/24/2019 10:49:07  [LOG]  :   Assigned task from: 10 to thread: 0. Assigned task number: 5
+11/24/2019 10:49:07  [LOG]  :   Starting thread: 6
+11/24/2019 10:49:07  [LOG]  :   Start new subject: ATHLTR
+11/24/2019 10:49:07  [LOG]  :   Assigned task from: 15 to thread: 3. Assigned task number: 5
+11/24/2019 10:49:07  [LOG]  :   Starting thread: 7
+11/24/2019 10:49:07  [LOG]  :   Start new subject: BFIN
+11/24/2019 10:49:07  [LOG]  :   Assigned task from: 20 to thread: 5. Assigned task number: 5

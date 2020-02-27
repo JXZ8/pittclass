@@ -1,0 +1,5 @@
+-------------- Script info --------------
+Script name: insert_instructor.py
+Start time: 11/24/2019 10:45:03
+
+-------------- Output --------------

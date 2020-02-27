@@ -1,0 +1,32 @@
+-------------- Script info --------------
+Script name: scrawl_ratemyprofessors.py
+Start time: 11/25/2019 11:01:29
+
+-------------- Output --------------
+11/25/2019 11:01:29  [LOG]  :   Total task count: 2957
+11/25/2019 11:01:29  [LOG]  :   Total thread count: 8
+11/25/2019 11:01:29  [LOG]  :   Starting thread: 0
+11/25/2019 11:01:29  [LOG]  :   Starting thread: 1
+11/25/2019 11:01:29  [LOG]  :   Starting thread: 2
+11/25/2019 11:01:29  [LOG]  :   Starting thread: 3
+11/25/2019 11:01:29  [LOG]  :   Starting thread: 4
+11/25/2019 11:01:29  [LOG]  :   Starting thread: 5
+11/25/2019 11:01:29  [LOG]  :   Starting thread: 6
+11/25/2019 11:01:29  [LOG]  :   Starting thread: 7
+11/25/2019 11:01:30  [LOG]  :   Assigned task from: 0 to thread: 4. Assigned task number: 5
+11/25/2019 11:01:30  [LOG]  :   Thread: 4. Aaron Abma
+11/25/2019 11:01:30  [LOG]  :   Assigned task from: 5 to thread: 6. Assigned task number: 5
+11/25/2019 11:01:30  [LOG]  :   Thread: 6. Aaron Brooks
+11/25/2019 11:01:30  [LOG]  :   Assigned task from: 10 to thread: 7. Assigned task number: 5
+11/25/2019 11:01:30  [LOG]  :   Thread: 7. Aaron Pifer 
+11/25/2019 11:01:30  [LOG]  :   Assigned task from: 15 to thread: 3. Assigned task number: 5
+11/25/2019 11:01:30  [LOG]  :   Thread: 3. Abdus Wahed
+11/25/2019 11:01:30  [LOG]  :   Assigned task from: 20 to thread: 5. Assigned task number: 5
+11/25/2019 11:01:30  [LOG]  :   Thread: 5. Adam Balawejder
+11/25/2019 11:01:33  [LOG]  :   Assigned task from: 25 to thread: 2. Assigned task number: 5
+11/25/2019 11:01:33  [LOG]  :   Thread: 2. Adam Lowenstein
+11/25/2019 11:01:33  [LOG]  :   Assigned task from: 30 to thread: 0. Assigned task number: 5
+11/25/2019 11:01:33  [LOG]  :   Thread: 0. Adriana Helbig
+11/25/2019 11:01:33  [LOG]  :   Thread: 4. Aaron Barchowsky 
+11/25/2019 11:01:35  [LOG]  :   Thread: 7. Aarti Batra
+11/25/2019 11:01:37  [LOG]  :   Thread: 4. Aaron Batista 

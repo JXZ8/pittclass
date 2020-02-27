@@ -1,0 +1,13 @@
+-------------- Script info --------------
+Script name: scrawl_ratemyprofessors.py
+Start time: 11/25/2019 11:01:11
+
+-------------- Output --------------
+11/25/2019 11:01:11  [LOG]  :   Total task count: 2957
+11/25/2019 11:01:11  [LOG]  :   Total thread count: 1
+11/25/2019 11:01:11  [LOG]  :   Starting thread: 0
+11/25/2019 11:01:15  [LOG]  :   Assigned task from: 0 to thread: 0. Assigned task number: 5
+11/25/2019 11:01:15  [LOG]  :   Thread: 0. Aaron Abma
+11/25/2019 11:01:19  [LOG]  :   Thread: 0. Aaron Barchowsky 
+11/25/2019 11:01:22  [LOG]  :   Thread: 0. Aaron Batista 
+11/25/2019 11:01:26  [LOG]  :   Thread: 0. Aaron Bell 

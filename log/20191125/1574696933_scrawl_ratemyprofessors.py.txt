@@ -1,0 +1,20 @@
+-------------- Script info --------------
+Script name: scrawl_ratemyprofessors.py
+Start time: 11/25/2019 10:48:53
+
+-------------- Output --------------
+11/25/2019 10:48:53  [LOG]  :   Total task count: 2957
+11/25/2019 10:48:53  [LOG]  :   Total thread count: 1
+11/25/2019 10:48:53  [LOG]  :   Starting thread: 0
+11/25/2019 10:48:53  [LOG]  :   Assigned task from: 0 to thread: 0. Assigned task number: 5
+11/25/2019 10:48:53  [LOG]  :   Thread: 0. Aaron Abma
+11/25/2019 10:48:59  [ERROR]  :   Insert into data base error at Database.insert(). Error Info: ProgrammingError(1146, "Table 'pitt_course.professor_info' doesn't exist")
+11/25/2019 10:48:59  [ERROR]  :   Error sql statement: INSERT INTO professor_info(nation,instructor_link,rmp_difficulty,rmp_rating,rmp_link,instructor_name,instructor_id,id) VALUES('','','','','','Aaron Abma','88e31259-0ed3-11ea-af88-a4c3f078df38','18a1b068-0f9b-11ea-9a5a-a4c3f078df38')
+11/25/2019 10:48:59  [LOG]  :   Thread: 0. Aaron Barchowsky 
+11/25/2019 10:49:02  [ERROR]  :   Insert into data base error at Database.insert(). Error Info: ProgrammingError(1146, "Table 'pitt_course.professor_info' doesn't exist")
+11/25/2019 10:49:02  [ERROR]  :   Error sql statement: INSERT INTO professor_info(nation,instructor_link,rmp_difficulty,rmp_rating,rmp_link,instructor_name,instructor_id,id) VALUES('','','','','','Aaron Barchowsky ','460c873b-0ed3-11ea-bce7-a4c3f078df38','1a66bb28-0f9b-11ea-9104-a4c3f078df38')
+11/25/2019 10:49:02  [LOG]  :   Thread: 0. Aaron Batista 
+11/25/2019 10:49:05  [ERROR]  :   Insert into data base error at Database.insert(). Error Info: ProgrammingError(1146, "Table 'pitt_course.professor_info' doesn't exist")
+11/25/2019 10:49:05  [ERROR]  :   Error sql statement: INSERT INTO professor_info(nation,instructor_link,rmp_difficulty,rmp_rating,rmp_link,instructor_name,instructor_id,id) VALUES('','','','','','Aaron Batista ','17370947-0ed3-11ea-bdfe-a4c3f078df38','1c23322c-0f9b-11ea-80e6-a4c3f078df38')
+11/25/2019 10:49:05  [LOG]  :   Thread: 0. Aaron Bell 
+11/25/2019 10:49:08  [LOG]  :   Thread: 0. Aaron Bernstine

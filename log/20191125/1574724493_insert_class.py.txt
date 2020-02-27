@@ -1,0 +1,10 @@
+-------------- Script info --------------
+Script name: insert_class.py
+Start time: 11/25/2019 18:28:13
+
+-------------- Output --------------
+11/25/2019 18:28:13  [LOG]  :   Total task count: 1
+11/25/2019 18:28:13  [LOG]  :   Total thread count: 1
+11/25/2019 18:28:13  [LOG]  :   Starting thread: 0
+11/25/2019 18:28:13  [LOG]  :   Assigned task from: 0 to thread: 0. Assigned task number: 1
+11/25/2019 18:28:13  [LOG]  :   Start crawling subject: PHYS

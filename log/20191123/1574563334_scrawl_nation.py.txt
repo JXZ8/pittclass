@@ -1,0 +1,213 @@
+-------------- Script info --------------
+Script name: scrawl_nation.py
+Start time: 11/23/2019 21:42:14
+
+-------------- Output --------------
+11/23/2019 21:42:14  [LOG]  :   The total task count is 5692
+11/23/2019 21:42:14  [LOG]  :   Total thread count: 3
+11/23/2019 21:42:14  [LOG]  :   Starting thread: 0
+11/23/2019 21:42:14  [LOG]  :   Starting thread: 1
+11/23/2019 21:42:14  [LOG]  :   Starting thread: 2
+11/23/2019 21:42:15  [LOG]  :   Assigned task from: 0 to thread. Assigned task number: 10
+11/23/2019 21:42:15  [LOG]  :   Aaron Abma: 
+11/23/2019 21:42:16  [LOG]  :   Assigned task from: 10 to thread. Assigned task number: 10
+11/23/2019 21:42:16  [LOG]  :   Aaron Ostrowski: 
+11/23/2019 21:42:16  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:42:16  [LOG]  :   Assigned task from: 20 to thread. Assigned task number: 10
+11/23/2019 21:42:16  [LOG]  :   Abimbola Fapohunda: 
+11/23/2019 21:42:19  [LOG]  :   Nigeria
+11/23/2019 21:42:19  [LOG]  :   Ada Youk: 
+11/23/2019 21:42:21  [LOG]  :   Poland
+11/23/2019 21:42:21  [LOG]  :   Aaron Pifer: 
+11/23/2019 21:42:22  [LOG]  :   Netherlands
+11/23/2019 21:42:22  [LOG]  :   Aaron Barchowsky: 
+11/23/2019 21:42:23  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:42:24  [LOG]  :   United States
+11/23/2019 21:42:24  [LOG]  :   Aarti Batra: 
+11/23/2019 21:42:28  [LOG]  :   India
+11/23/2019 21:42:28  [LOG]  :   Aarti Batra: 
+11/23/2019 21:42:28  [LOG]  :   Last name for name: Aarti Batra already exists. Skipping this...
+11/23/2019 21:42:28  [LOG]  :   Abagael West: 
+11/23/2019 21:42:29  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:42:30  [LOG]  :   United States
+11/23/2019 21:42:30  [LOG]  :   Aaron Batista: 
+11/23/2019 21:42:31  [LOG]  :   United States
+11/23/2019 21:42:31  [LOG]  :   Abby Kincaid: 
+11/23/2019 21:42:34  [LOG]  :   Brazil
+11/23/2019 21:42:34  [LOG]  :   Aaron Batista: 
+11/23/2019 21:42:34  [LOG]  :   Last name for name: Aaron Batista already exists. Skipping this...
+11/23/2019 21:42:34  [LOG]  :   Aaron Bell: 
+11/23/2019 21:42:35  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:42:36  [LOG]  :   United States
+11/23/2019 21:42:36  [LOG]  :   Abdesalam Soudi: 
+11/23/2019 21:42:39  [LOG]  :   Egypt
+11/23/2019 21:42:39  [LOG]  :   Abdus Wahed: 
+11/23/2019 21:42:40  [LOG]  :   United States
+11/23/2019 21:42:40  [LOG]  :   Aaron Bernstine: 
+11/23/2019 21:42:41  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:42:42  [LOG]  :   Bangladesh
+11/23/2019 21:42:42  [LOG]  :   Abigail Miller: 
+11/23/2019 21:42:45  [LOG]  :   United States
+11/23/2019 21:42:45  [LOG]  :   Aaron Brooks: 
+11/23/2019 21:42:46  [LOG]  :   United States
+11/23/2019 21:42:46  [LOG]  :   Abigail Salisbury: 
+11/23/2019 21:42:49  [LOG]  :   United States
+11/23/2019 21:42:49  [LOG]  :   Aaron Henderson: 
+11/23/2019 21:42:49  [LOG]  :   Cambodia
+11/23/2019 21:42:49  [LOG]  :   Ada Youk: 
+11/23/2019 21:42:49  [LOG]  :   Last name for name: Ada Youk already exists. Skipping this...
+11/23/2019 21:42:49  [LOG]  :   Adam Balawejder: 
+11/23/2019 21:42:51  [LOG]  :   United States
+11/23/2019 21:42:51  [LOG]  :   Abimbola Fapohunda: 
+11/23/2019 21:42:51  [LOG]  :   Last name for name: Abimbola Fapohunda already exists. Skipping this...
+11/23/2019 21:42:51  [LOG]  :   Ada Youk: 
+11/23/2019 21:42:51  [LOG]  :   Last name for name: Ada Youk already exists. Skipping this...
+11/23/2019 21:42:51  [LOG]  :   Ada Youk: 
+11/23/2019 21:42:51  [LOG]  :   Last name for name: Ada Youk already exists. Skipping this...
+11/23/2019 21:42:51  [LOG]  :   Adam Balawejder: 
+11/23/2019 21:42:52  [LOG]  :   United States
+11/23/2019 21:42:52  [LOG]  :   Aaron Johnson: 
+11/23/2019 21:42:53  [LOG]  :   Poland
+11/23/2019 21:42:53  [LOG]  :   Adam Brown: 
+11/23/2019 21:42:55  [LOG]  :   Poland
+11/23/2019 21:42:55  [LOG]  :   Adam Brown: 
+11/23/2019 21:42:57  [LOG]  :   United States
+11/23/2019 21:42:57  [LOG]  :   Aaron Mann: 
+11/23/2019 21:42:58  [LOG]  :   United States
+11/23/2019 21:42:58  [LOG]  :   Adam Hart: 
+11/23/2019 21:43:02  [LOG]  :   United States
+11/23/2019 21:43:02  [LOG]  :   Assigned task from: 30 to thread. Assigned task number: 10
+11/23/2019 21:43:02  [LOG]  :   Adam Shear: 
+11/23/2019 21:43:02  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:43:03  [LOG]  :   United States
+11/23/2019 21:43:03  [LOG]  :   Adam Lee: 
+11/23/2019 21:43:06  [LOG]  :   United States
+11/23/2019 21:43:06  [LOG]  :   Adam Lee: 
+11/23/2019 21:43:06  [LOG]  :   Last name for name: Adam Lee already exists. Skipping this...
+11/23/2019 21:43:06  [LOG]  :   Adam Leibovich: 
+11/23/2019 21:43:08  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:43:10  [LOG]  :   Argentina
+11/23/2019 21:43:10  [LOG]  :   Adam Lowenstein: 
+11/23/2019 21:43:10  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:43:12  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:43:17  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:43:17  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:43:20  [LOG]  :   United States
+11/23/2019 21:43:20  [LOG]  :   Adam Walkowiak: 
+11/23/2019 21:43:22  [LOG]  :   United States
+11/23/2019 21:43:22  [LOG]  :   Adam Hart: 
+11/23/2019 21:43:22  [LOG]  :   Last name for name: Adam Hart already exists. Skipping this...
+11/23/2019 21:43:22  [LOG]  :   Adam Lee: 
+11/23/2019 21:43:22  [LOG]  :   Last name for name: Adam Lee already exists. Skipping this...
+11/23/2019 21:43:22  [LOG]  :   Adam Lee: 
+11/23/2019 21:43:22  [LOG]  :   Last name for name: Adam Lee already exists. Skipping this...
+11/23/2019 21:43:22  [LOG]  :   Adam Leibovich: 
+11/23/2019 21:43:22  [LOG]  :   Last name for name: Adam Leibovich already exists. Skipping this...
+11/23/2019 21:43:22  [LOG]  :   Adam Lowenstein: 
+11/23/2019 21:43:23  [LOG]  :   Poland
+11/23/2019 21:43:23  [LOG]  :   Addison Eldin: 
+11/23/2019 21:43:24  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:43:25  [LOG]  :   United States
+11/23/2019 21:43:25  [LOG]  :   Adam Shear: 
+11/23/2019 21:43:25  [LOG]  :   Last name for name: Adam Shear already exists. Skipping this...
+11/23/2019 21:43:25  [LOG]  :   Adam Walkowiak: 
+11/23/2019 21:43:25  [LOG]  :   Last name for name: Adam Walkowiak already exists. Skipping this...
+11/23/2019 21:43:25  [LOG]  :   Addison Eldin: 
+11/23/2019 21:43:26  [LOG]  :   Egypt
+11/23/2019 21:43:26  [LOG]  :   Adella Dixon: 
+11/23/2019 21:43:28  [LOG]  :   Egypt
+11/23/2019 21:43:28  [LOG]  :   Adella Dixon: 
+11/23/2019 21:43:29  [LOG]  :   United States
+11/23/2019 21:43:29  [LOG]  :   Adriana Helbig: 
+11/23/2019 21:43:30  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:43:31  [LOG]  :   United States
+11/23/2019 21:43:31  [LOG]  :   Adriana Helbig: 
+11/23/2019 21:43:32  [LOG]  :   Germany
+11/23/2019 21:43:32  [LOG]  :   Adriana Kovashka: 
+11/23/2019 21:43:34  [LOG]  :   Germany
+11/23/2019 21:43:34  [LOG]  :   Adriana Kovashka: 
+11/23/2019 21:43:35  [LOG]  :   Bulgaria
+11/23/2019 21:43:35  [LOG]  :   Adriana Vieira: 
+11/23/2019 21:43:36  [LOG]  :   United States
+11/23/2019 21:43:36  [LOG]  :   Assigned task from: 40 to thread. Assigned task number: 10
+11/23/2019 21:43:36  [LOG]  :   Ahmed Elshahat: 
+11/23/2019 21:43:37  [LOG]  :   Bulgaria
+11/23/2019 21:43:37  [LOG]  :   Adriana Vieira: 
+11/23/2019 21:43:38  [LOG]  :   Brazil
+11/23/2019 21:43:38  [LOG]  :   Aeriel Merillat: 
+11/23/2019 21:43:40  [LOG]  :   Brazil
+11/23/2019 21:43:40  [LOG]  :   Aeriel Merillat: 
+11/23/2019 21:43:41  [LOG]  :   United States
+11/23/2019 21:43:41  [LOG]  :   Egypt
+11/23/2019 21:43:41  [LOG]  :   Ahmed Dallal: 
+11/23/2019 21:43:41  [LOG]  :   Ahmed Elshahat: 
+11/23/2019 21:43:41  [LOG]  :   Last name for name: Ahmed Elshahat already exists. Skipping this...
+11/23/2019 21:43:41  [LOG]  :   Aidan Beatty: 
+11/23/2019 21:43:43  [LOG]  :   United States
+11/23/2019 21:43:43  [LOG]  :   Ahmed Dallal: 
+11/23/2019 21:43:44  [LOG]  :   Egypt
+11/23/2019 21:43:44  [LOG]  :   Ahmed Dallal: 
+11/23/2019 21:43:44  [LOG]  :   Last name for name: Ahmed Dallal already exists. Skipping this...
+11/23/2019 21:43:44  [LOG]  :   Ahmed Elshahat: 
+11/23/2019 21:43:44  [LOG]  :   Last name for name: Ahmed Elshahat already exists. Skipping this...
+11/23/2019 21:43:44  [LOG]  :   Ahmed Elshahat: 
+11/23/2019 21:43:44  [LOG]  :   Last name for name: Ahmed Elshahat already exists. Skipping this...
+11/23/2019 21:43:44  [LOG]  :   Aidan Beatty: 
+11/23/2019 21:43:46  [LOG]  :   Egypt
+11/23/2019 21:43:46  [LOG]  :   Ahmed Dallal: 
+11/23/2019 21:43:46  [LOG]  :   Last name for name: Ahmed Dallal already exists. Skipping this...
+11/23/2019 21:43:46  [LOG]  :   Ahmed Elshahat: 
+11/23/2019 21:43:46  [LOG]  :   Last name for name: Ahmed Elshahat already exists. Skipping this...
+11/23/2019 21:43:46  [LOG]  :   Ahmed Elshahat: 
+11/23/2019 21:43:46  [LOG]  :   Last name for name: Ahmed Elshahat already exists. Skipping this...
+11/23/2019 21:43:46  [LOG]  :   Aidan Beatty: 
+11/23/2019 21:43:46  [WARNING]  :   Connection timeout. Changing ip...
+11/23/2019 21:43:47  [LOG]  :   United States
+11/23/2019 21:43:47  [LOG]  :   Aidan Wright: 
+11/23/2019 21:43:49  [LOG]  :   United States
+11/23/2019 21:43:49  [LOG]  :   Aidan Wright: 
+11/23/2019 21:43:50  [LOG]  :   United States
+11/23/2019 21:43:50  [LOG]  :   Akin Sayrak: 
+11/23/2019 21:43:52  [LOG]  :   United States
+11/23/2019 21:43:52  [LOG]  :   Akin Sayrak: 
+11/23/2019 21:43:53  [LOG]  :   Turkey
+11/23/2019 21:43:53  [LOG]  :   Akira Sekikawa: 
+11/23/2019 21:43:55  [LOG]  :   Turkey
+11/23/2019 21:43:55  [LOG]  :   Akira Sekikawa: 
+11/23/2019 21:43:55  [LOG]  :   United States
+11/23/2019 21:43:55  [LOG]  :   Aidan Wright: 
+11/23/2019 21:43:55  [LOG]  :   Last name for name: Aidan Wright already exists. Skipping this...
+11/23/2019 21:43:55  [LOG]  :   Akin Sayrak: 
+11/23/2019 21:43:55  [LOG]  :   Last name for name: Akin Sayrak already exists. Skipping this...
+11/23/2019 21:43:55  [LOG]  :   Akira Sekikawa: 
+11/23/2019 21:43:56  [LOG]  :   Japan
+11/23/2019 21:43:56  [LOG]  :   Akira Sekikawa: 
+11/23/2019 21:43:56  [LOG]  :   Last name for name: Akira Sekikawa already exists. Skipping this...
+11/23/2019 21:43:56  [LOG]  :   Al Primack: 
+11/23/2019 21:43:58  [LOG]  :   Japan
+11/23/2019 21:43:58  [LOG]  :   Akira Sekikawa: 
+11/23/2019 21:43:58  [LOG]  :   Last name for name: Akira Sekikawa already exists. Skipping this...
+11/23/2019 21:43:58  [LOG]  :   Al Primack: 
+11/23/2019 21:43:59  [LOG]  :   Japan
+11/23/2019 21:43:59  [LOG]  :   Akira Sekikawa: 
+11/23/2019 21:43:59  [LOG]  :   Last name for name: Akira Sekikawa already exists. Skipping this...
+11/23/2019 21:43:59  [LOG]  :   Al Primack: 
+11/23/2019 21:43:59  [LOG]  :   United States
+11/23/2019 21:43:59  [LOG]  :   Alaina Roberts: 
+11/23/2019 21:44:01  [LOG]  :   United States
+11/23/2019 21:44:01  [LOG]  :   Alaina Roberts: 
+11/23/2019 21:44:02  [LOG]  :   United States
+11/23/2019 21:44:02  [LOG]  :   Alan Degenhart: 
+11/23/2019 21:44:03  [LOG]  :   United States
+11/23/2019 21:44:03  [LOG]  :   Alaina Roberts: 
+11/23/2019 21:44:03  [LOG]  :   Last name for name: Alaina Roberts already exists. Skipping this...
+11/23/2019 21:44:03  [LOG]  :   Alan Degenhart: 
+11/23/2019 21:44:04  [LOG]  :   United States
+11/23/2019 21:44:04  [LOG]  :   Alan Degenhart: 
+11/23/2019 21:44:05  [LOG]  :   United States
+11/23/2019 21:44:05  [LOG]  :   Alan George: 
+11/23/2019 21:44:06  [LOG]  :   United States
+11/23/2019 21:44:06  [LOG]  :   Alan George: 
+11/23/2019 21:44:07  [LOG]  :   United States
+11/23/2019 21:44:07  [LOG]  :   Assigned task from: 50 to thread. Assigned task number: 10
+11/23/2019 21:44:07  [LOG]  :   Alan George: 

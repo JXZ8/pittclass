@@ -1,0 +1,46 @@
+-------------- Script info --------------
+Script name: scrawl_nation.py
+Start time: 11/23/2019 21:34:05
+
+-------------- Output --------------
+11/23/2019 21:34:05  [INFO]  :   The total task count is 5692
+11/23/2019 21:34:05  [INFO]  :   Total thread count: 3
+11/23/2019 21:34:05  [INFO]  :   Starting thread: 0
+11/23/2019 21:34:05  [INFO]  :   Assigned task from: 0 to thread. Assigned task number: 10
+11/23/2019 21:34:05  [INFO]  :   Starting thread: 1
+11/23/2019 21:34:05  [INFO]  :   Aaron Abma: 
+11/23/2019 21:34:05  [INFO]  :   Assigned task from: 10 to thread. Assigned task number: 10
+11/23/2019 21:34:05  [INFO]  :   Starting thread: 2
+11/23/2019 21:34:05  [INFO]  :   Aaron Ostrowski: 
+11/23/2019 21:34:05  [INFO]  :   Assigned task from: 20 to thread. Assigned task number: 10
+11/23/2019 21:34:05  [INFO]  :   Abimbola Fapohunda: 
+11/23/2019 21:34:16  [INFO]  :   Netherlands
+11/23/2019 21:34:16  [INFO]  :   Aaron Barchowsky: 
+11/23/2019 21:34:20  [INFO]  :   United States
+11/23/2019 21:34:20  [INFO]  :   Aaron Batista: 
+11/23/2019 21:34:20  [INFO]  :   Poland
+11/23/2019 21:34:20  [INFO]  :   Aaron Pifer: 
+11/23/2019 21:34:21  [INFO]  :   Nigeria
+11/23/2019 21:34:21  [INFO]  :   Ada Youk: 
+11/23/2019 21:34:23  [INFO]  :   United States
+11/23/2019 21:34:23  [INFO]  :   Aarti Batra: 
+11/23/2019 21:34:25  [INFO]  :   Brazil
+11/23/2019 21:34:25  [INFO]  :   Aaron Batista: 
+11/23/2019 21:34:25  [INFO]  :   Last name for name: Aaron Batista already exists. Skipping this...
+11/23/2019 21:34:25  [INFO]  :   Aaron Bell: 
+11/23/2019 21:34:26  [INFO]  :   Cambodia
+11/23/2019 21:34:26  [INFO]  :   Ada Youk: 
+11/23/2019 21:34:26  [INFO]  :   Last name for name: Ada Youk already exists. Skipping this...
+11/23/2019 21:34:26  [INFO]  :   Adam Balawejder: 
+11/23/2019 21:34:27  [INFO]  :   India
+11/23/2019 21:34:27  [INFO]  :   Aarti Batra: 
+11/23/2019 21:34:27  [INFO]  :   Last name for name: Aarti Batra already exists. Skipping this...
+11/23/2019 21:34:27  [INFO]  :   Abagael West: 
+11/23/2019 21:34:30  [INFO]  :   United States
+11/23/2019 21:34:30  [INFO]  :   Aaron Bernstine: 
+11/23/2019 21:34:30  [INFO]  :   Poland
+11/23/2019 21:34:30  [INFO]  :   Adam Brown: 
+11/23/2019 21:34:32  [INFO]  :   United States
+11/23/2019 21:34:32  [INFO]  :   Abby Kincaid: 
+11/23/2019 21:34:33  [INFO]  :   United States
+11/23/2019 21:34:33  [INFO]  :   Aaron Brooks: 

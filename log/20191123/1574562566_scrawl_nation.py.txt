@@ -1,0 +1,6 @@
+-------------- Script info --------------
+Script name: scrawl_nation.py
+Start time: 11/23/2019 21:29:26
+
+-------------- Output --------------
+11/23/2019 21:29:26  [INFO]  :   The total task count is 25

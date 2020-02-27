@@ -1,0 +1,126 @@
+-------------- Script info --------------
+Script name: insert_instructor.py
+Start time: 11/25/2019 17:30:38
+
+-------------- Output --------------
+11/25/2019 17:30:38  [LOG]  :   Total task count: 215
+11/25/2019 17:30:38  [LOG]  :   Total thread count: 8
+11/25/2019 17:30:38  [LOG]  :   Starting thread: 0
+11/25/2019 17:30:38  [LOG]  :   Starting thread: 1
+11/25/2019 17:30:38  [LOG]  :   Starting thread: 2
+11/25/2019 17:30:38  [LOG]  :   Assigned task from: 0 to thread: 0. Assigned task number: 5
+11/25/2019 17:30:38  [LOG]  :   Starting thread: 3
+11/25/2019 17:30:38  [LOG]  :   Assigned task from: 5 to thread: 1. Assigned task number: 5
+11/25/2019 17:30:38  [LOG]  :   Start new subject: ADMJ
+11/25/2019 17:30:38  [LOG]  :   Starting thread: 4
+11/25/2019 17:30:38  [LOG]  :   Start new subject: ARABIC
+11/25/2019 17:30:38  [LOG]  :   Starting thread: 5
+11/25/2019 17:30:38  [LOG]  :   Assigned task from: 10 to thread: 3. Assigned task number: 5
+11/25/2019 17:30:38  [LOG]  :   Starting thread: 6
+11/25/2019 17:30:38  [LOG]  :   Start new subject: ATHLTR
+11/25/2019 17:30:38  [LOG]  :   Assigned task from: 15 to thread: 4. Assigned task number: 5
+11/25/2019 17:30:38  [LOG]  :   Starting thread: 7
+11/25/2019 17:30:38  [LOG]  :   Start new subject: BFIN
+11/25/2019 17:30:38  [LOG]  :   Assigned task from: 20 to thread: 2. Assigned task number: 5
+11/25/2019 17:30:38  [LOG]  :   Assigned task from: 25 to thread: 6. Assigned task number: 5
+11/25/2019 17:30:38  [LOG]  :   Start new subject: BIOINF
+11/25/2019 17:30:38  [LOG]  :   Start new subject: BOAH
+11/25/2019 17:30:38  [LOG]  :   Assigned task from: 30 to thread: 7. Assigned task number: 5
+11/25/2019 17:30:38  [LOG]  :   Start new subject: BUS
+11/25/2019 17:30:38  [LOG]  :   Assigned task from: 35 to thread: 5. Assigned task number: 5
+11/25/2019 17:30:38  [LOG]  :   Start new subject: BUSENV
+11/25/2019 17:30:40  [LOG]  :   Thread: 6. Subject name: BOAH. Inserting instructor: Nisha Nair. Is_professor: 1. Section id: 1155-LEC Katz Se 1
+11/25/2019 17:30:40  [LOG]  :   Thread: 6. Subject name: BOAH. Instructor 'Nisha Nair' already exist. Section id: 1155-LEC Katz Se 1
+11/25/2019 17:30:40  [LOG]  :   Thread: 6. Subject name: BOAH. Instructor 'Nisha Nair' already exist. Section id: 1155-LEC Katz Se 1
+11/25/2019 17:30:40  [LOG]  :   Thread: 7. Subject name: BUS. Inserting instructor: Staff. Is_professor: 1. Section id: 1020-LEC Acad Term
+11/25/2019 17:30:40  [LOG]  :   Thread: 6. Subject name: BOAH. Inserting instructor: Deborah Good. Is_professor: 1. Section id: 1300-LEC Katz Maste
+11/25/2019 17:30:40  [LOG]  :   Thread: 7. Subject name: BUS. Instructor 'Staff' already exist. Section id: 1030-LEC Acad Term
+11/25/2019 17:30:40  [LOG]  :   Thread: 6. Subject name: BOAH. Inserting instructor: Tammy Dennis. Is_professor: 1. Section id: 1300-LEC Katz Maste
+11/25/2019 17:30:40  [LOG]  :   Thread: 5. Subject name: BUSENV. Inserting instructor: Paul Klein. Is_professor: 1. Section id: 1025-LEC Acad Term
+11/25/2019 17:30:40  [LOG]  :   Thread: 7. Subject name: BUS. Instructor 'Staff' already exist. Section id: 1090-LEC Acad Term
+11/25/2019 17:30:40  [LOG]  :   Thread: 6. Subject name: BOAH. Instructor 'Deborah Good' already exist. Section id: 1210-LEC Katz Maste
+11/25/2019 17:30:41  [LOG]  :   Thread: 1. Subject name: ARABIC. Inserting instructor: Islam Farag. Is_professor: 1. Section id: 1150-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 5. Subject name: BUSENV. Instructor 'Paul Klein' already exist. Section id: 1120-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 7. Subject name: BUS. Instructor 'Staff' already exist. Section id: 1100-LEC FT Sess
+11/25/2019 17:30:41  [LOG]  :   Thread: 6. Subject name: BOAH. Instructor 'Nisha Nair' already exist. Section id: 1030-LEC Katz Se 1
+11/25/2019 17:30:41  [LOG]  :   Thread: 1. Subject name: ARABIC. Instructor 'Islam Farag' already exist. Section id: 1150-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 5. Subject name: BUSENV. Inserting instructor: Raymond Jones. Is_professor: 1. Section id: 1150-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 7. Subject name: BUS. Instructor 'Staff' already exist. Section id: 1150-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 6. Subject name: BOAH. Instructor 'Paul Klein' already exist. Section id: 1040-LEC Katz Se 1
+11/25/2019 17:30:41  [LOG]  :   Thread: 4. Subject name: BFIN. Inserting instructor: Andrew Washburn. Is_professor: 1. Section id: 1010-LEC Katz Se 1
+11/25/2019 17:30:41  [LOG]  :   Thread: 1. Subject name: ARABIC. Instructor 'Islam Farag' already exist. Section id: 1170-LEC FT Sess
+11/25/2019 17:30:41  [LOG]  :   Thread: 5. Subject name: BUSENV. Instructor 'Raymond Jones' already exist. Section id: 1160-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 7. Subject name: BUS. Instructor 'Staff' already exist. Section id: 1210-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 2. Subject name: BIOINF. Inserting instructor: Xinghua Lu. Is_professor: 0. Section id: 1010-SEM Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 6. Subject name: BOAH. Instructor 'Nisha Nair' already exist. Section id: 1030-LEC Katz Se 2
+11/25/2019 17:30:41  [LOG]  :   Thread: 0. Subject name: ADMJ. Inserting instructor: Tiffany Wilfong. Is_professor: 1. Section id: 7010-LEC FT Sess
+11/25/2019 17:30:41  [LOG]  :   Thread: 4. Subject name: BFIN. Inserting instructor: Kenneth Lehn. Is_professor: 1. Section id: 1015-LEC Katz Se 1
+11/25/2019 17:30:41  [LOG]  :   Thread: 1. Subject name: ARABIC. Instructor 'Islam Farag' already exist. Section id: 1100-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 5. Subject name: BUSENV. Inserting instructor: Ronald Johnson. Is_professor: 1. Section id: 1170-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 7. Subject name: BUS. Inserting instructor: Jay Sukits. Is_professor: 1. Section id: 1360-LEC FT Sess
+11/25/2019 17:30:41  [LOG]  :   Thread: 2. Subject name: BIOINF. Inserting instructor: Shyam Visweswaran. Is_professor: 1. Section id: 1035-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 6. Subject name: BOAH. Instructor 'Paul Klein' already exist. Section id: 1040-LEC Katz Se 2
+11/25/2019 17:30:41  [LOG]  :   Thread: 0. Subject name: ADMJ. Inserting instructor: Mark Romutis. Is_professor: 1. Section id: 7020-LEC FT Sess
+11/25/2019 17:30:41  [LOG]  :   Thread: 3. Subject name: ATHLTR. Inserting instructor: Amy Aggelou. Is_professor: 1. Section id: 1020-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 4. Subject name: BFIN. Instructor 'Kenneth Lehn' already exist. Section id: 1020-LEC Katz Se 1
+11/25/2019 17:30:41  [LOG]  :   Thread: 1. Subject name: ARABIC. Inserting instructor: Myriam Abdel-Malek. Is_professor: 1. Section id: 1010-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 5. Subject name: BUSENV. Inserting instructor: Devdutta Mukherjee. Is_professor: 1. Section id: 1180-LEC Acad Term
+11/25/2019 17:30:41  [LOG]  :   Thread: 7. Subject name: BUS. Inserting instructor: Peter Strope. Is_professor: 1. Section id: 1360-LEC FT Sess
+11/25/2019 17:30:41  [LOG]  :   Thread: 2. Subject name: BIOINF. Inserting instructor: Douglas Landsittel. Is_professor: 1. Section id: 1060-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Start new subject: BORG
+11/25/2019 17:30:42  [LOG]  :   Thread: 0. Subject name: ADMJ. Instructor 'Tiffany Wilfong' already exist. Section id: 7510-LEC FT Sess
+11/25/2019 17:30:42  [LOG]  :   Thread: 3. Subject name: ATHLTR. Instructor 'Staff' already exist. Section id: 1020-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 4. Subject name: BFIN. Instructor 'Andrew Washburn' already exist. Section id: 1030-LEC Katz Maste
+11/25/2019 17:30:42  [LOG]  :   Thread: 1. Subject name: ARABIC. Inserting instructor: Rasha Al-Hashimi. Is_professor: 1. Section id: 1040-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 5. Subject name: BUSENV. Inserting instructor: Stanley Kabala. Is_professor: 1. Section id: 1180-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 7. Subject name: BUS. Inserting instructor: Eugene Natali. Is_professor: 1. Section id: 1370-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 2. Subject name: BIOINF. Inserting instructor: Gerald Douglas. Is_professor: 0. Section id: 1010-PRA Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 0. Subject name: ADMJ. Inserting instructor: Louis Gentile. Is_professor: 1. Section id: 7010-LEC FT Sess
+11/25/2019 17:30:42  [LOG]  :   Thread: 3. Subject name: ATHLTR. Instructor 'Amy Aggelou' already exist. Section id: 1070-CLN Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 4. Subject name: BFIN. Inserting instructor: David Denis. Is_professor: 1. Section id: 1050-LEC Katz Maste
+11/25/2019 17:30:42  [LOG]  :   Thread: 1. Subject name: ARABIC. Instructor 'Rasha Al-Hashimi' already exist. Section id: 1040-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 5. Subject name: BUSENV. Inserting instructor: Audrey Murrell. Is_professor: 1. Section id: 1070-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 7. Subject name: BUS. Instructor 'Staff' already exist. Section id: 1010-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 2. Subject name: BIOINF. Inserting instructor: Harry Hochheiser. Is_professor: 0. Section id: 1100-PRA Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 0. Subject name: ADMJ. Inserting instructor: Richard McDonald. Is_professor: 1. Section id: 7010-LEC FT Sess
+11/25/2019 17:30:42  [LOG]  :   Thread: 3. Subject name: ATHLTR. Inserting instructor: Michelle Varnell. Is_professor: 0. Section id: 1070-CLN Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 4. Subject name: BFIN. Inserting instructor: Akin Sayrak. Is_professor: 1. Section id: 1100-LEC Katz Maste
+11/25/2019 17:30:42  [LOG]  :   Thread: 1. Subject name: ARABIC. Instructor 'Rasha Al-Hashimi' already exist. Section id: 1050-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 5. Subject name: BUSENV. Instructor 'Raymond Jones' already exist. Section id: 1070-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 7. Subject name: BUS. Instructor 'Staff' already exist. Section id: 1010-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 2. Subject name: BIOINF. Instructor 'Harry Hochheiser' already exist. Section id: 1010-THE Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 0. Subject name: ADMJ. Inserting instructor: Edward Strimlan. Is_professor: 1. Section id: 7010-LEC FT Sess
+11/25/2019 17:30:42  [LOG]  :   Thread: 3. Subject name: ATHLTR. Section id: 1010-LEC Acad Term is lecture. Updating instructor and setting is_professor to 1 for: Michelle Varnell
+11/25/2019 17:30:42  [LOG]  :   Thread: 4. Subject name: BFIN. Inserting instructor: Archana Hingorani. Is_professor: 1. Section id: 1220-LEC Katz Se 2
+11/25/2019 17:30:42  [LOG]  :   Thread: 1. Subject name: ARABIC. Instructor 'Rasha Al-Hashimi' already exist. Section id: 1050-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 5. Subject name: BUSENV. Inserting instructor: Carolyn Mendelson. Is_professor: 1. Section id: 1300-LEC Acad Term
+11/25/2019 17:30:42  [LOG]  :   Thread: 7. Subject name: BUS. Instructor 'Staff' already exist. Section id: 1010-SEM Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 2. Subject name: BIOINF. Instructor 'Harry Hochheiser' already exist. Section id: 1010-IND Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 0. Subject name: ADMJ. Inserting instructor: Patrick Casey. Is_professor: 1. Section id: 7210-LEC FT Sess
+11/25/2019 17:30:43  [LOG]  :   Thread: 3. Subject name: ATHLTR. Inserting instructor: Shane Conley. Is_professor: 0. Section id: 1030-CLN Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 4. Subject name: BFIN. Instructor 'Archana Hingorani' already exist. Section id: 1220-LEC Katz Se 2
+11/25/2019 17:30:43  [LOG]  :   Thread: 1. Subject name: ARABIC. Instructor 'Myriam Abdel-Malek' already exist. Section id: 1080-LEC Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 5. Subject name: BUSENV. Instructor 'Audrey Murrell' already exist. Section id: 1010-IND Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 7. Subject name: BUS. Inserting instructor: Elise Boyas. Is_professor: 0. Section id: 1010-INT Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 2. Subject name: BIOINF. Instructor 'Harry Hochheiser' already exist. Section id: 1010-DIR Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 0. Subject name: ADMJ. Instructor 'Edward Strimlan' already exist. Section id: 7510-LEC FT Sess
+11/25/2019 17:30:43  [LOG]  :   Thread: 3. Subject name: ATHLTR. Inserting instructor: Brian Bonnar. Is_professor: 1. Section id: 1070-LEC Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 4. Subject name: BFIN. Inserting instructor: Ahmed Elshahat. Is_professor: 1. Section id: 1200-LEC Katz Maste
+11/25/2019 17:30:43  [LOG]  :   Thread: 1. Subject name: ARABIC. Instructor 'Myriam Abdel-Malek' already exist. Section id: 1060-LEC Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 5. Subject name: BUSENV. Instructor 'Raymond Jones' already exist. Section id: 1010-INT Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 7. Subject name: BUS. Inserting instructor: Jongwoon Choi. Is_professor: 0. Section id: 1010-INT Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 2. Subject name: BIOINF. Instructor 'Harry Hochheiser' already exist. Section id: 1010-DIR Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 0. Subject name: ADMJ. Instructor 'Edward Strimlan' already exist. Section id: 7010-CLB FT Sess
+11/25/2019 17:30:43  [LOG]  :   Thread: 3. Subject name: ATHLTR. Instructor 'Staff' already exist. Section id: 1030-LEC FT Sess
+11/25/2019 17:30:43  [LOG]  :   Thread: 4. Subject name: BFIN. Inserting instructor: Camille Burgess. Is_professor: 0. Section id: 1010-IND Katz Se 2
+11/25/2019 17:30:43  [LOG]  :   Thread: 6. Subject name: BORG. Inserting instructor: Camille Burgess. Is_professor: 0. Section id: 1010-IND Katz Se 2
+11/25/2019 17:30:43  [LOG]  :   Thread: 1. Subject name: ARABIC. Instructor 'Rasha Al-Hashimi' already exist. Section id: 1085-LEC Acad Term
+11/25/2019 17:30:43  [LOG]  :   Start new subject: BUSERV
+11/25/2019 17:30:43  [LOG]  :   Thread: 7. Subject name: BUS. Instructor 'Raymond Jones' already exist. Section id: 1010-INT Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 2. Subject name: BIOINF. Instructor 'Harry Hochheiser' already exist. Section id: 1010-IND Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 0. Subject name: ADMJ. Instructor 'Edward Strimlan' already exist. Section id: 7020-CLB FT Sess
+11/25/2019 17:30:43  [LOG]  :   Thread: 3. Subject name: ATHLTR. Inserting instructor: William Ankrom. Is_professor: 0. Section id: 1030-PRA Acad Term
+11/25/2019 17:30:43  [LOG]  :   Thread: 4. Subject name: BFIN. Instructor 'Camille Burgess' already exist. Section id: 1150-IND Katz Se 1
+11/25/2019 17:30:43  [LOG]  :   Thread: 1. Subject name: ARABIC. Inserting instructor: Amani Attia. Is_professor: 1. Section id: 1080-LEC Acad Term
+11/25/2019 17:30:44  [LOG]  :   Thread: 7. Subject name: BUS. Instructor 'Staff' already exist. Section id: 1010-IND Acad Term
+11/25/2019 17:30:44  [LOG]  :   Thread: 2. Subject name: BIOINF. Instructor 'Harry Hochheiser' already exist. Section id: 1010-DIR Acad Term

@@ -1,0 +1,5 @@
+-------------- Script info --------------
+Script name: insert_class.py
+Start time: 11/25/2019 17:47:26
+
+-------------- Output --------------

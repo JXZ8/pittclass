@@ -1,0 +1,6 @@
+-------------- Script info --------------
+Script name: insert_class.py
+Start time: 11/23/2019 19:06:13
+
+-------------- Output --------------
+11/23/2019 19:06:13  [INFO]  :   Start crawling subject: MSMPHL

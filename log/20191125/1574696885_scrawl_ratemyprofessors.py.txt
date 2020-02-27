@@ -1,0 +1,39 @@
+-------------- Script info --------------
+Script name: scrawl_ratemyprofessors.py
+Start time: 11/25/2019 10:48:05
+
+-------------- Output --------------
+11/25/2019 10:48:05  [LOG]  :   Total task count: 2957
+11/25/2019 10:48:05  [LOG]  :   Total thread count: 8
+11/25/2019 10:48:05  [LOG]  :   Starting thread: 0
+11/25/2019 10:48:05  [LOG]  :   Starting thread: 1
+11/25/2019 10:48:05  [LOG]  :   Starting thread: 2
+11/25/2019 10:48:05  [LOG]  :   Starting thread: 3
+11/25/2019 10:48:05  [LOG]  :   Assigned task from: 0 to thread: 1. Assigned task number: 5
+11/25/2019 10:48:05  [LOG]  :   Starting thread: 4
+11/25/2019 10:48:05  [LOG]  :   Thread: 1. Aaron Abma
+11/25/2019 10:48:05  [LOG]  :   Assigned task from: 5 to thread: 2. Assigned task number: 5
+11/25/2019 10:48:05  [LOG]  :   Starting thread: 5
+11/25/2019 10:48:05  [LOG]  :   Thread: 2. Aaron Brooks
+11/25/2019 10:48:05  [LOG]  :   Assigned task from: 10 to thread: 3. Assigned task number: 5
+11/25/2019 10:48:05  [LOG]  :   Starting thread: 6
+11/25/2019 10:48:05  [LOG]  :   Thread: 3. Aaron Pifer 
+11/25/2019 10:48:05  [LOG]  :   Assigned task from: 15 to thread: 0. Assigned task number: 5
+11/25/2019 10:48:05  [LOG]  :   Starting thread: 7
+11/25/2019 10:48:05  [LOG]  :   Thread: 0. Abdus Wahed
+11/25/2019 10:48:05  [LOG]  :   Assigned task from: 20 to thread: 4. Assigned task number: 5
+11/25/2019 10:48:06  [LOG]  :   Thread: 4. Adam Balawejder
+11/25/2019 10:48:06  [LOG]  :   Assigned task from: 25 to thread: 5. Assigned task number: 5
+11/25/2019 10:48:06  [LOG]  :   Thread: 5. Adam Lowenstein
+11/25/2019 10:48:06  [LOG]  :   Assigned task from: 30 to thread: 7. Assigned task number: 5
+11/25/2019 10:48:06  [LOG]  :   Thread: 7. Adriana Helbig
+11/25/2019 10:48:06  [LOG]  :   Assigned task from: 35 to thread: 6. Assigned task number: 5
+11/25/2019 10:48:06  [LOG]  :   Thread: 6. Ahmed Elshahat
+11/25/2019 10:48:09  [ERROR]  :   Insert into data base error at Database.insert(). Error Info: ProgrammingError(1146, "Table 'pitt_course.professor_info' doesn't exist")
+11/25/2019 10:48:09  [ERROR]  :   Error sql statement: INSERT INTO professor_info(nation,instructor_link,rmp_difficulty,rmp_rating,rmp_link,instructor_name,instructor_id,id) VALUES('','','','','','Abdus Wahed','309b29c0-0ed3-11ea-9282-a4c3f078df38','fae95ea2-0f9a-11ea-9d11-a4c3f078df38')
+11/25/2019 10:48:09  [LOG]  :   Thread: 0. Abigail Miller 
+11/25/2019 10:48:11  [ERROR]  :   Insert into data base error at Database.insert(). Error Info: ProgrammingError(1146, "Table 'pitt_course.professor_info' doesn't exist")
+11/25/2019 10:48:11  [ERROR]  :   Error sql statement: INSERT INTO professor_info(nation,instructor_link,rmp_difficulty,rmp_rating,rmp_link,instructor_name,instructor_id,id) VALUES('','','','','','Ahmed Elshahat','01880f0b-0ed3-11ea-bdbc-a4c3f078df38','fbb000d4-0f9a-11ea-addb-a4c3f078df38')
+11/25/2019 10:48:11  [LOG]  :   Thread: 6. Aidan Beatty
+11/25/2019 10:48:14  [LOG]  :   Thread: 6. Aidan Wright
+11/25/2019 10:48:16  [LOG]  :   Thread: 0. Abigail Salisbury
