@@ -1,0 +1,189 @@
+Array
+(
+    [0] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\lib\Logger.php
+            [line] => 168
+            [function] => dump
+            [class] => Logger
+            [object] => Logger Object
+                (
+                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                    [writeCount:Logger:private] => 0
+                    [logFilePath:Logger:private] => ../log/20200124/log/20200124.txt
+                    [dumpDirPath:Logger:private] => ../log/20200124/dump/
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\lib\Database.php
+            [line] => 82
+            [function] => error
+            [class] => Logger
+            [object] => Logger Object
+                (
+                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                    [writeCount:Logger:private] => 0
+                    [logFilePath:Logger:private] => ../log/20200124/log/20200124.txt
+                    [dumpDirPath:Logger:private] => ../log/20200124/dump/
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Mysqli prepare failed in function Database::execute().
+                    [1] => FunctionParameter Object
+                        (
+                            [parameterValueArr:FunctionParameter:private] => Array
+                                (
+                                    [0] => SELECT `class`.`section_id` FROM `course` INNER JOIN `class` ON `class`.`course_id` = `course`.`course_id` WHERE `course`.`name` like ? ORDER BY `course`.`name` ASC
+                                )
+
+                            [parameterNameArr:FunctionParameter:private] => Array
+                                (
+                                    [0] => $sqlStatement
+                                )
+
+                            [l:FunctionParameter:private] => Logger Object
+                                (
+                                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                                    [writeCount:Logger:private] => 0
+                                    [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib\base\class/../../../log/20200124/log/20200124.txt
+                                    [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib\base\class/../../../log/20200124/dump/
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\ClassSearcher.php
+            [line] => 98
+            [function] => execute
+            [class] => Database
+            [object] => Database Object
+                (
+                    [conn:Database:private] => mysqli Object
+                        (
+                            [affected_rows] => -1
+                            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: 3591daad22de08524295e1bd073aceeff11e6579 $
+                            [client_version] => 50012
+                            [connect_errno] => 0
+                            [connect_error] => 
+                            [errno] => 1054
+                            [error] => Unknown column 'class.section_id' in 'field list'
+                            [error_list] => Array
+                                (
+                                )
+
+                            [field_count] => 0
+                            [host_info] => 192.168.1.144 via TCP/IP
+                            [info] => 
+                            [insert_id] => 0
+                            [server_info] => 5.6.45
+                            [server_version] => 50645
+                            [stat] => Uptime: 566101  Threads: 1  Questions: 5848  Slow queries: 0  Opens: 80  Flush tables: 1  Open tables: 73  Queries per second avg: 0.010
+                            [sqlstate] => 00000
+                            [protocol_version] => 10
+                            [thread_id] => 460
+                            [warning_count] => 0
+                        )
+
+                    [l:Database:private] => Logger Object
+                        (
+                            [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                            [writeCount:Logger:private] => 0
+                            [logFilePath:Logger:private] => ../log/20200124/log/20200124.txt
+                            [dumpDirPath:Logger:private] => ../log/20200124/dump/
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => SELECT `class`.`section_id` FROM `course` INNER JOIN `class` ON `class`.`course_id` = `course`.`course_id` WHERE `course`.`name` like ? ORDER BY `course`.`name` ASC
+                    [1] => % 0401 %
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\tester.php
+            [line] => 61
+            [function] => addCourseNumber
+            [class] => ClassSearcher
+            [object] => ClassSearcher Object
+                (
+                    [resultSet] => 
+                    [db:ClassSearcher:private] => Database Object
+                        (
+                            [conn:Database:private] => mysqli Object
+                                (
+                                    [affected_rows] => -1
+                                    [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: 3591daad22de08524295e1bd073aceeff11e6579 $
+                                    [client_version] => 50012
+                                    [connect_errno] => 0
+                                    [connect_error] => 
+                                    [errno] => 0
+                                    [error] => 
+                                    [error_list] => Array
+                                        (
+                                        )
+
+                                    [field_count] => 0
+                                    [host_info] => 192.168.1.144 via TCP/IP
+                                    [info] => 
+                                    [insert_id] => 0
+                                    [server_info] => 5.6.45
+                                    [server_version] => 50645
+                                    [stat] => Uptime: 566101  Threads: 1  Questions: 5849  Slow queries: 0  Opens: 80  Flush tables: 1  Open tables: 73  Queries per second avg: 0.010
+                                    [sqlstate] => 00000
+                                    [protocol_version] => 10
+                                    [thread_id] => 460
+                                    [warning_count] => 0
+                                )
+
+                            [l:Database:private] => Logger Object
+                                (
+                                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                                    [writeCount:Logger:private] => 0
+                                    [logFilePath:Logger:private] => ../log/20200124/log/20200124.txt
+                                    [dumpDirPath:Logger:private] => ../log/20200124/dump/
+                                )
+
+                        )
+
+                    [filledSet:ClassSearcher:private] => 
+                    [logger:ClassSearcher:private] => Logger Object
+                        (
+                            [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                            [writeCount:Logger:private] => 0
+                            [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200124/log/20200124.txt
+                            [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200124/dump/
+                        )
+
+                    [pageNum:ClassSearcher:private] => 1
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => 0401
+                    [1] => 2
+                )
+
+        )
+
+)

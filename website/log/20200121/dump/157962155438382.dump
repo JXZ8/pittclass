@@ -1,0 +1,726 @@
+Array
+(
+    [0] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\lib\Logger.php
+            [line] => 168
+            [function] => dump
+            [class] => Logger
+            [object] => Logger Object
+                (
+                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                    [writeCount:Logger:private] => 0
+                    [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200121/log/20200121.txt
+                    [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200121/dump/
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\ClassSearcher.php
+            [line] => 109
+            [function] => error
+            [class] => Logger
+            [object] => Logger Object
+                (
+                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                    [writeCount:Logger:private] => 0
+                    [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200121/log/20200121.txt
+                    [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200121/dump/
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Undefined set operation in handleSet()
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\ClassSearcher.php
+            [line] => 75
+            [function] => handleSet
+            [class] => ClassSearcher
+            [object] => ClassSearcher Object
+                (
+                    [resultSet] => Ds\Set Object
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 0001989c-0fdc-11ea-b4af-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26372
+                                    [section_name] => 1160-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 3611a32f-0fd3-11ea-9799-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 0006782c-0fdc-11ea-a811-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26374
+                                    [section_name] => 1170-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 9b80513f-0fd3-11ea-b03f-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => 000be7c0-0fdc-11ea-8055-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26376
+                                    [section_name] => 1180-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 9b150f23-0fd3-11ea-8c00-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [3] => Array
+                                (
+                                    [id] => 001272f6-0fdc-11ea-b09e-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26378
+                                    [section_name] => 1190-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 3611a32f-0fd3-11ea-9799-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [4] => Array
+                                (
+                                    [id] => 0015a512-0fdc-11ea-82ec-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26381
+                                    [section_name] => 1200-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 3611a32f-0fd3-11ea-9799-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [5] => Array
+                                (
+                                    [id] => 001be380-0fdc-11ea-8e78-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26384
+                                    [section_name] => 1205-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 3611a32f-0fd3-11ea-9799-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [6] => Array
+                                (
+                                    [id] => 00274d74-0fdc-11ea-9f47-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26387
+                                    [section_name] => 1210-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 3611a32f-0fd3-11ea-9799-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [7] => Array
+                                (
+                                    [id] => 002ceeba-0fdc-11ea-944f-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => ea44c19c-0db6-11ea-befb-a4c3f078df38
+                                    [name] => CS 3551 - ADV TOPICS IN DISTBD INFOR SYS
+                                    [requirement] => PREQ: CS 2510 and 2550
+                                    [unit] => 3 units
+                                    [component] => Lecture Required
+                                    [grading_method] => Grad LG/SNC Basis
+                                    [career] => Graduate
+                                    [description] => This course focuses on emerging technologies for large scale, distributed information systems.  Topics to be examined include data and information modeling, heterogeneous data integration, data distribution, caching and replication, web databases, distributed query processing and searching, multimodal access, quality of data, content networks, and pervasive data management.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 32189
+                                    [section_name] => 1010-LEC Acad Term
+                                    [time] => 4:00PM - 5:15PM
+                                    [day] => {'mo': 0, 'tu': 1, 'we': 0, 'th': 1, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 0}
+                                    [duration] => 1h 15min
+                                    [place] => 252 Cathedral of Learning
+                                    [instructor_id] => aae02b6d-0fd3-11ea-be22-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 1
+                                )
+
+                            [8] => Array
+                                (
+                                    [id] => 00387fb4-0fdc-11ea-ac92-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => f17a72de-0db6-11ea-855c-a4c3f078df38
+                                    [name] => CS 3710 - ADV TOPICS ARTIFICIAL INTELLGNC
+                                    [requirement] => PREQ: CS 2710
+                                    [unit] => 3 units
+                                    [component] => Lecture Required
+                                    [grading_method] => Grad LG/SNC Basis
+                                    [career] => Graduate
+                                    [description] => This course will survey current topics in artificial intelligence.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 31574
+                                    [section_name] => 1010-LEC Acad Term
+                                    [time] => 4:30PM - 5:45PM
+                                    [day] => {'mo': 1, 'tu': 0, 'we': 1, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 0}
+                                    [duration] => 1h 15min
+                                    [place] => 6516 Sennott Square
+                                    [instructor_id] => 9b150f23-0fd3-11ea-8c00-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 1
+                                )
+
+                            [9] => Array
+                                (
+                                    [id] => 00434d9e-0fdc-11ea-ad1a-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => f93ba992-0db6-11ea-85d1-a4c3f078df38
+                                    [name] => CS 3750 - ADV TOPICS IN MACHINE LEARNING
+                                    [requirement] => PREQ: CS 2750
+                                    [unit] => 3 units
+                                    [component] => Seminar Required
+                                    [grading_method] => Grad LG/SNC Basis
+                                    [career] => Graduate
+                                    [description] => This course will survey advanced topics in machine learning, for example, inductive learning, reinforcement learning, and neural network learning.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 31577
+                                    [section_name] => 1010-SEM Acad Term
+                                    [time] => 9:00AM - 10:15AM
+                                    [day] => {'mo': 0, 'tu': 1, 'we': 0, 'th': 1, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 0}
+                                    [duration] => 1h 15min
+                                    [place] => 5313 Sennott Square
+                                    [instructor_id] => 99e7313f-0fd3-11ea-934f-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 3
+                                )
+
+                        )
+
+                    [db:ClassSearcher:private] => Database Object
+                        (
+                            [conn:Database:private] => mysqli Object
+                                (
+                                    [affected_rows] => -1
+                                    [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: 3591daad22de08524295e1bd073aceeff11e6579 $
+                                    [client_version] => 50012
+                                    [connect_errno] => 0
+                                    [connect_error] => 
+                                    [errno] => 0
+                                    [error] => 
+                                    [error_list] => Array
+                                        (
+                                        )
+
+                                    [field_count] => 28
+                                    [host_info] => 192.168.1.144 via TCP/IP
+                                    [info] => 
+                                    [insert_id] => 0
+                                    [server_info] => 5.6.45
+                                    [server_version] => 50645
+                                    [stat] => Uptime: 300670  Threads: 1  Questions: 4120  Slow queries: 0  Opens: 80  Flush tables: 1  Open tables: 73  Queries per second avg: 0.013
+                                    [sqlstate] => 00000
+                                    [protocol_version] => 10
+                                    [thread_id] => 313
+                                    [warning_count] => 0
+                                )
+
+                            [l:Database:private] => Logger Object
+                                (
+                                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                                    [writeCount:Logger:private] => 0
+                                    [logFilePath:Logger:private] => ../log/20200121/log/20200121.txt
+                                    [dumpDirPath:Logger:private] => ../log/20200121/dump/
+                                )
+
+                        )
+
+                    [filledSet:ClassSearcher:private] => 
+                    [logger:ClassSearcher:private] => Logger Object
+                        (
+                            [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                            [writeCount:Logger:private] => 0
+                            [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200121/log/20200121.txt
+                            [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200121/dump/
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => ADMJ
+                    [1] => 0
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\tester.php
+            [line] => 60
+            [function] => add_subject
+            [class] => ClassSearcher
+            [object] => ClassSearcher Object
+                (
+                    [resultSet] => Ds\Set Object
+                        (
+                            [0] => Array
+                                (
+                                    [id] => 0001989c-0fdc-11ea-b4af-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26372
+                                    [section_name] => 1160-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 3611a32f-0fd3-11ea-9799-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [1] => Array
+                                (
+                                    [id] => 0006782c-0fdc-11ea-a811-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26374
+                                    [section_name] => 1170-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 9b80513f-0fd3-11ea-b03f-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [2] => Array
+                                (
+                                    [id] => 000be7c0-0fdc-11ea-8055-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26376
+                                    [section_name] => 1180-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 9b150f23-0fd3-11ea-8c00-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [3] => Array
+                                (
+                                    [id] => 001272f6-0fdc-11ea-b09e-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26378
+                                    [section_name] => 1190-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 3611a32f-0fd3-11ea-9799-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [4] => Array
+                                (
+                                    [id] => 0015a512-0fdc-11ea-82ec-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26381
+                                    [section_name] => 1200-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 3611a32f-0fd3-11ea-9799-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [5] => Array
+                                (
+                                    [id] => 001be380-0fdc-11ea-8e78-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26384
+                                    [section_name] => 1205-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 3611a32f-0fd3-11ea-9799-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [6] => Array
+                                (
+                                    [id] => 00274d74-0fdc-11ea-9f47-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => e2aa36f0-0db6-11ea-8000-a4c3f078df38
+                                    [name] => CS 3000 - RESEARCH AND DISSERTATION PHD
+                                    [requirement] => 
+                                    [unit] => 1 - 9 units
+                                    [component] => Thesis Research Required
+                                    [grading_method] => Grad SNC Basis
+                                    [career] => Graduate
+                                    [description] => Any adjunct or full member of the graduate faculty of the department may direct doctoral dissertations.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 26387
+                                    [section_name] => 1210-THE Acad Term
+                                    [time] => TBA
+                                    [day] => {'mo': 0, 'tu': 0, 'we': 0, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 1}
+                                    [duration] => TBA
+                                    [place] => TO BE ARRANGED
+                                    [instructor_id] => 3611a32f-0fd3-11ea-9799-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 12
+                                )
+
+                            [7] => Array
+                                (
+                                    [id] => 002ceeba-0fdc-11ea-944f-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => ea44c19c-0db6-11ea-befb-a4c3f078df38
+                                    [name] => CS 3551 - ADV TOPICS IN DISTBD INFOR SYS
+                                    [requirement] => PREQ: CS 2510 and 2550
+                                    [unit] => 3 units
+                                    [component] => Lecture Required
+                                    [grading_method] => Grad LG/SNC Basis
+                                    [career] => Graduate
+                                    [description] => This course focuses on emerging technologies for large scale, distributed information systems.  Topics to be examined include data and information modeling, heterogeneous data integration, data distribution, caching and replication, web databases, distributed query processing and searching, multimodal access, quality of data, content networks, and pervasive data management.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 32189
+                                    [section_name] => 1010-LEC Acad Term
+                                    [time] => 4:00PM - 5:15PM
+                                    [day] => {'mo': 0, 'tu': 1, 'we': 0, 'th': 1, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 0}
+                                    [duration] => 1h 15min
+                                    [place] => 252 Cathedral of Learning
+                                    [instructor_id] => aae02b6d-0fd3-11ea-be22-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 1
+                                )
+
+                            [8] => Array
+                                (
+                                    [id] => 00387fb4-0fdc-11ea-ac92-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => f17a72de-0db6-11ea-855c-a4c3f078df38
+                                    [name] => CS 3710 - ADV TOPICS ARTIFICIAL INTELLGNC
+                                    [requirement] => PREQ: CS 2710
+                                    [unit] => 3 units
+                                    [component] => Lecture Required
+                                    [grading_method] => Grad LG/SNC Basis
+                                    [career] => Graduate
+                                    [description] => This course will survey current topics in artificial intelligence.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 31574
+                                    [section_name] => 1010-LEC Acad Term
+                                    [time] => 4:30PM - 5:45PM
+                                    [day] => {'mo': 1, 'tu': 0, 'we': 1, 'th': 0, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 0}
+                                    [duration] => 1h 15min
+                                    [place] => 6516 Sennott Square
+                                    [instructor_id] => 9b150f23-0fd3-11ea-8c00-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 1
+                                )
+
+                            [9] => Array
+                                (
+                                    [id] => 00434d9e-0fdc-11ea-ad1a-a4c3f078df38
+                                    [major_id] => dde6b7b5-07f6-11ea-a029-a4c3f078df38
+                                    [subject_name] =>  Computer Science
+                                    [subject_index] => CS
+                                    [course_id] => f93ba992-0db6-11ea-85d1-a4c3f078df38
+                                    [name] => CS 3750 - ADV TOPICS IN MACHINE LEARNING
+                                    [requirement] => PREQ: CS 2750
+                                    [unit] => 3 units
+                                    [component] => Seminar Required
+                                    [grading_method] => Grad LG/SNC Basis
+                                    [career] => Graduate
+                                    [description] => This course will survey advanced topics in machine learning, for example, inductive learning, reinforcement learning, and neural network learning.
+                                    [session] => Academic Term
+                                    [add_time] => 1574724816
+                                    [class_id] => 31577
+                                    [section_name] => 1010-SEM Acad Term
+                                    [time] => 9:00AM - 10:15AM
+                                    [day] => {'mo': 0, 'tu': 1, 'we': 0, 'th': 1, 'fr': 0, 'sa': 0, 'su': 0, 'TBA': 0}
+                                    [duration] => 1h 15min
+                                    [place] => 5313 Sennott Square
+                                    [instructor_id] => 99e7313f-0fd3-11ea-934f-a4c3f078df38
+                                    [period] => 01/06/2020 - 04/25/2020
+                                    [type] => 3
+                                )
+
+                        )
+
+                    [db:ClassSearcher:private] => Database Object
+                        (
+                            [conn:Database:private] => mysqli Object
+                                (
+                                    [affected_rows] => -1
+                                    [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: 3591daad22de08524295e1bd073aceeff11e6579 $
+                                    [client_version] => 50012
+                                    [connect_errno] => 0
+                                    [connect_error] => 
+                                    [errno] => 0
+                                    [error] => 
+                                    [error_list] => Array
+                                        (
+                                        )
+
+                                    [field_count] => 28
+                                    [host_info] => 192.168.1.144 via TCP/IP
+                                    [info] => 
+                                    [insert_id] => 0
+                                    [server_info] => 5.6.45
+                                    [server_version] => 50645
+                                    [stat] => Uptime: 300670  Threads: 1  Questions: 4121  Slow queries: 0  Opens: 80  Flush tables: 1  Open tables: 73  Queries per second avg: 0.013
+                                    [sqlstate] => 00000
+                                    [protocol_version] => 10
+                                    [thread_id] => 313
+                                    [warning_count] => 0
+                                )
+
+                            [l:Database:private] => Logger Object
+                                (
+                                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                                    [writeCount:Logger:private] => 0
+                                    [logFilePath:Logger:private] => ../log/20200121/log/20200121.txt
+                                    [dumpDirPath:Logger:private] => ../log/20200121/dump/
+                                )
+
+                        )
+
+                    [filledSet:ClassSearcher:private] => 
+                    [logger:ClassSearcher:private] => Logger Object
+                        (
+                            [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                            [writeCount:Logger:private] => 0
+                            [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200121/log/20200121.txt
+                            [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200121/dump/
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => ADMJ
+                    [1] => 0
+                )
+
+        )
+
+)

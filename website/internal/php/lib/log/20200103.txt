@@ -1,0 +1,1 @@
+2020/01/03 15:25:06 [LOG] /internal/php/lib/tester.php on line 19:   test. @param[$sqlStatement] = ttt; @param[$asdfasd] = asdf; . 

@@ -1,0 +1,99 @@
+Array
+(
+    [0] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\lib\Logger.php
+            [line] => 168
+            [function] => dump
+            [class] => Logger
+            [object] => Logger Object
+                (
+                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                    [writeCount:Logger:private] => 0
+                    [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200103/log/20200103.txt
+                    [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200103/dump/
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\lib\tester.php
+            [line] => 19
+            [function] => error
+            [class] => Logger
+            [object] => Logger Object
+                (
+                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                    [writeCount:Logger:private] => 0
+                    [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200103/log/20200103.txt
+                    [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200103/dump/
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => test
+                    [1] => FunctionParameter Object
+                        (
+                            [parameterValueArr:FunctionParameter:private] => Array
+                                (
+                                    [0] => ttt
+                                    [1] => asdf
+                                )
+
+                            [parameterNameArr:FunctionParameter:private] => Array
+                                (
+                                    [0] => $sqlStatement
+                                    [1] => $asdfasd
+                                )
+
+                            [l:FunctionParameter:private] => Logger Object
+                                (
+                                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                                    [writeCount:Logger:private] => 0
+                                    [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib\base\class/../../../log/20200103/log/20200103.txt
+                                    [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib\base\class/../../../log/20200103/dump/
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\lib\tester.php
+            [line] => 25
+            [function] => test
+            [class] => testerClass
+            [object] => testerClass Object
+                (
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => 123
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\lib\tester.php
+            [line] => 29
+            [function] => t1
+            [args] => Array
+                (
+                )
+
+        )
+
+)

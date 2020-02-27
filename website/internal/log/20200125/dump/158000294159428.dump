@@ -1,0 +1,191 @@
+Array
+(
+    [0] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\lib\Logger.php
+            [line] => 168
+            [function] => dump
+            [class] => Logger
+            [object] => Logger Object
+                (
+                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                    [writeCount:Logger:private] => 0
+                    [logFilePath:Logger:private] => ../log/20200125/log/20200125.txt
+                    [dumpDirPath:Logger:private] => ../log/20200125/dump/
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                )
+
+        )
+
+    [1] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\lib\Database.php
+            [line] => 82
+            [function] => error
+            [class] => Logger
+            [object] => Logger Object
+                (
+                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                    [writeCount:Logger:private] => 0
+                    [logFilePath:Logger:private] => ../log/20200125/log/20200125.txt
+                    [dumpDirPath:Logger:private] => ../log/20200125/dump/
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => Mysqli prepare failed in function Database::execute().
+                    [1] => FunctionParameter Object
+                        (
+                            [parameterValueArr:FunctionParameter:private] => Array
+                                (
+                                    [0] => SELECT `name`, `class_id`, `time`, `day`, `duration`, `unit_low`, `unit_high`, `place`, `period`, `type`, `instructor_name`, `nation` FROM (SELECT `class_id`,`section_name`, `course_id`, `time`, `day`,`duration`, `place`, `T`.`instructor_id`, `period`, `type` FROM (SELECT `instructor_id` FROM `instructor_info` WHERE `rmp_rating` >= ? and `rmp_rating` <= ?) AS T INNER JOIN `class` ON `class`.`instructor_id` = `T`.`instructor_id`) AS T1 LEFT JOIN `course` ON `course`.`course_id` = `T1`.`course_id` LEFT JOIN `instructor` ON `T1`.`instructor_id` = `instructor`.`instructor_id` ORDER BY `name` ASC ORDER BY `class_id` ASC
+                                )
+
+                            [parameterNameArr:FunctionParameter:private] => Array
+                                (
+                                    [0] => $sqlStatement
+                                )
+
+                            [l:FunctionParameter:private] => Logger Object
+                                (
+                                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                                    [writeCount:Logger:private] => 0
+                                    [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib\base\class/../../../log/20200125/log/20200125.txt
+                                    [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib\base\class/../../../log/20200125/dump/
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\ClassSearcher.php
+            [line] => 263
+            [function] => execute
+            [class] => Database
+            [object] => Database Object
+                (
+                    [conn:Database:private] => mysqli Object
+                        (
+                            [affected_rows] => -1
+                            [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: 3591daad22de08524295e1bd073aceeff11e6579 $
+                            [client_version] => 50012
+                            [connect_errno] => 0
+                            [connect_error] => 
+                            [errno] => 1064
+                            [error] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY `class_id` ASC' at line 1
+                            [error_list] => Array
+                                (
+                                )
+
+                            [field_count] => 0
+                            [host_info] => 192.168.1.144 via TCP/IP
+                            [info] => 
+                            [insert_id] => 0
+                            [server_info] => 5.6.45
+                            [server_version] => 50645
+                            [stat] => Uptime: 32194  Threads: 3  Questions: 23831  Slow queries: 0  Opens: 88  Flush tables: 1  Open tables: 71  Queries per second avg: 0.740
+                            [sqlstate] => 00000
+                            [protocol_version] => 10
+                            [thread_id] => 974
+                            [warning_count] => 0
+                        )
+
+                    [l:Database:private] => Logger Object
+                        (
+                            [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                            [writeCount:Logger:private] => 0
+                            [logFilePath:Logger:private] => ../log/20200125/log/20200125.txt
+                            [dumpDirPath:Logger:private] => ../log/20200125/dump/
+                        )
+
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => SELECT `name`, `class_id`, `time`, `day`, `duration`, `unit_low`, `unit_high`, `place`, `period`, `type`, `instructor_name`, `nation` FROM (SELECT `class_id`,`section_name`, `course_id`, `time`, `day`,`duration`, `place`, `T`.`instructor_id`, `period`, `type` FROM (SELECT `instructor_id` FROM `instructor_info` WHERE `rmp_rating` >= ? and `rmp_rating` <= ?) AS T INNER JOIN `class` ON `class`.`instructor_id` = `T`.`instructor_id`) AS T1 LEFT JOIN `course` ON `course`.`course_id` = `T1`.`course_id` LEFT JOIN `instructor` ON `T1`.`instructor_id` = `instructor`.`instructor_id` ORDER BY `name` ASC ORDER BY `class_id` ASC
+                    [1] => 1
+                    [2] => 2
+                )
+
+        )
+
+    [3] => Array
+        (
+            [file] => C:\wamp64\www\pitt_course_test\internal\php\tester.php
+            [line] => 66
+            [function] => addProfessorRating
+            [class] => ClassSearcher
+            [object] => ClassSearcher Object
+                (
+                    [resultSet] => 
+                    [db:ClassSearcher:private] => Database Object
+                        (
+                            [conn:Database:private] => mysqli Object
+                                (
+                                    [affected_rows] => -1
+                                    [client_info] => mysqlnd 5.0.12-dev - 20150407 - $Id: 3591daad22de08524295e1bd073aceeff11e6579 $
+                                    [client_version] => 50012
+                                    [connect_errno] => 0
+                                    [connect_error] => 
+                                    [errno] => 0
+                                    [error] => 
+                                    [error_list] => Array
+                                        (
+                                        )
+
+                                    [field_count] => 0
+                                    [host_info] => 192.168.1.144 via TCP/IP
+                                    [info] => 
+                                    [insert_id] => 0
+                                    [server_info] => 5.6.45
+                                    [server_version] => 50645
+                                    [stat] => Uptime: 32194  Threads: 3  Questions: 23832  Slow queries: 0  Opens: 88  Flush tables: 1  Open tables: 71  Queries per second avg: 0.740
+                                    [sqlstate] => 00000
+                                    [protocol_version] => 10
+                                    [thread_id] => 974
+                                    [warning_count] => 0
+                                )
+
+                            [l:Database:private] => Logger Object
+                                (
+                                    [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                                    [writeCount:Logger:private] => 0
+                                    [logFilePath:Logger:private] => ../log/20200125/log/20200125.txt
+                                    [dumpDirPath:Logger:private] => ../log/20200125/dump/
+                                )
+
+                        )
+
+                    [filledSet:ClassSearcher:private] => 
+                    [logger:ClassSearcher:private] => Logger Object
+                        (
+                            [logDir:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log/
+                            [writeCount:Logger:private] => 0
+                            [logFilePath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200125/log/20200125.txt
+                            [dumpDirPath:Logger:private] => C:\wamp64\www\pitt_course_test\internal\php\lib../../../../log//20200125/dump/
+                        )
+
+                    [pageNum:ClassSearcher:private] => 1
+                )
+
+            [type] => ->
+            [args] => Array
+                (
+                    [0] => 1
+                    [1] => 2
+                    [2] => 1
+                )
+
+        )
+
+)

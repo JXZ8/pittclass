@@ -1,0 +1,1 @@
+2020/01/03 16:22:14 [ERROR] /internal/php/lib/tester.php on line 19:   test. Dump file path: C:\wamp64\www\pitt_course_test\log\20200103\dump\157808653411932.dump. @param[$sqlStatement] = ttt; @param[$asdfasd] = asdf; . 

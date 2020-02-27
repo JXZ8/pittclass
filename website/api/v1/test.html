@@ -1,0 +1,83 @@
+
+<!doctype html>
+ <meta charset="utf-8">
+
+<html>
+  <head>
+    <title>jQuery数组和字符串--对象数组排序</title>
+    <script type="text/javascript" src="../jquery-1.3.2.min.js"></script>
+ 		<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+
+    <script type="text/javascript">
+ 
+    
+    $(
+        function()
+        {
+            var students =[
+                {'sid':'ST001','sname':'张三','sage':18},
+                {'sid':'ST004','sname':'赵六','sage':23},
+                {'sid':'ST002','sname':'李四','sage':42},
+                {'sid':'ST003','sname':'王五','sage':35}
+            ];
+            //表格显示
+            $.each(students,
+                function(index, value)
+                {
+                    $('#ia').append('<tr><td>' + value.sid + 
+                        '</td><td>' + value.sname + 
+                        '</td><td>' + value.sage + '</td></tr>');
+                }
+            );
+            //按照SID排序
+            var sidOrder = students.sort(
+                function(a, b)
+                {
+                    if(a.sid < b.sid) return -1;
+                    if(a.sid > b.sid) return 1;
+                    return 0;
+                }
+            );
+            $.each(sidOrder,
+                function(index, value)
+                {
+                    $('#ib').append('<tr><td>' + value.sid +
+                        '</td><td>' + value.sname + 
+                        '</td><td>' + value.sage + '</td></tr>')
+                }
+            );
+            //按照SAGE排序
+            var sageOrder = students.sort(
+                function(a, b)
+                {
+                    return (a.sage - b.sage);
+                }
+            );
+            $.each(sageOrder,
+                function(index, value)
+                {
+                    $('#ic').append('<tr><td>' + value.sid +
+                        '</td><td>' + value.sname + 
+                        '</td><td>' + value.sage + '</td></tr>')
+                }
+            );
+        }
+    );
+    //-->
+    </script>
+  </head>
+  <body>
+    <h5>未排序对象数组：</h5>
+    <table id='ia' border="1"></table>
+ 
+    <h5>按照SID排序对象数组：</h5>
+    <table id='ib' border="1"></table>
+ 
+    <h5>按照SAGE排序对象数组：</h5>
+    <table id='ic' border="1"></table>
+ 
+  </body>
+</html>
+————————————————
+版权声明：本文为CSDN博主「apensu」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/apensu/article/details/7088011
